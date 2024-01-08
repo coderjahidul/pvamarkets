@@ -1,0 +1,52 @@
+[09-Jul-2023 04:51:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16
+[09-Jul-2023 04:51:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16
+[05-Sep-2023 06:27:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16
+[10-Sep-2023 02:10:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16
+[10-Sep-2023 12:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16
+[10-Sep-2023 12:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16
+[10-Sep-2023 16:20:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16
+[10-Sep-2023 17:43:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16
+[11-Sep-2023 07:34:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16
+[11-Sep-2023 10:27:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16
+[11-Sep-2023 10:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16
+[12-Sep-2023 17:24:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16
+[12-Sep-2023 17:24:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/accountsseller/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-admin/includes/admin.php on line 16

@@ -1,0 +1,85 @@
+2023-12-18T08:56:16+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\WcPayWelcomePage.php(292): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\WcPayWelcomePage.php(82): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->get_incentive()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\PaymentsMoreInfoNeeded.php(42): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->must_be_visible()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\PaymentsMoreInfoNeeded.php(63): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::should_display_note()
+#7 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Notes\NoteTraits.php(83): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::get_note()
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Events.php(198): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::possibly_add_note()
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Events.php(145): Automattic\WooCommerce\Internal\Admin\Events->possibly_add_notes()
+#10 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): Automattic\WooCommerce\Internal\Admin\Events->do_wc_admin_daily()
+#11 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#13 C:\laragon\www\pvamarkets\wp-cron.php(191): do_action_ref_array('wc_admin_daily', Array)
+#14 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-18T09:04:32+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\WcPayWelcomePage.php(292): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\WcPayWelcomePage.php(82): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->get_incentive()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\PaymentsMoreInfoNeeded.php(42): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->must_be_visible()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\PaymentsMoreInfoNeeded.php(63): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::should_display_note()
+#7 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Notes\NoteTraits.php(83): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::get_note()
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Events.php(198): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::possibly_add_note()
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Events.php(145): Automattic\WooCommerce\Internal\Admin\Events->possibly_add_notes()
+#10 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): Automattic\WooCommerce\Internal\Admin\Events->do_wc_admin_daily()
+#11 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#13 C:\laragon\www\pvamarkets\wp-cron.php(191): do_action_ref_array('wc_admin_daily', Array)
+#14 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-18T10:35:22+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 12288 bytes) in C:\laragon\www\pvamarkets\wp-includes\functions.php on line 650
+
+2023-12-18T10:36:46+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 12288 bytes) in C:\laragon\www\pvamarkets\wp-includes\functions.php on line 650
+
+2023-12-18T10:38:47+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 12288 bytes) in C:\laragon\www\pvamarkets\wp-includes\functions.php on line 650
+
+2023-12-18T10:39:04+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 12288 bytes) in C:\laragon\www\pvamarkets\wp-includes\functions.php on line 650
+
+2023-12-18T10:59:21+00:00 CRITICAL Uncaught TypeError: sort(): Argument #2 ($flags) must be of type int, Closure given in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\home-items.php:88
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\home-items.php(88): sort(Array, Object(Closure))
+#1 C:\laragon\www\pvamarkets\wp-includes\template.php(792): require('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\wp-includes\template.php(725): load_template('C:\\laragon\\www\\...', false, Array)
+#3 C:\laragon\www\pvamarkets\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#4 C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\homepage.php(22): get_template_part('template-parts/...', 'items')
+#5 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#6 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#7 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#8 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\home-items.php on line 88
+
+2023-12-18T10:59:42+00:00 CRITICAL Uncaught TypeError: rsort(): Argument #2 ($flags) must be of type int, Closure given in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\home-items.php:88
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\home-items.php(88): rsort(Array, Object(Closure))
+#1 C:\laragon\www\pvamarkets\wp-includes\template.php(792): require('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\wp-includes\template.php(725): load_template('C:\\laragon\\www\\...', false, Array)
+#3 C:\laragon\www\pvamarkets\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#4 C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\homepage.php(22): get_template_part('template-parts/...', 'items')
+#5 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#6 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#7 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#8 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\home-items.php on line 88
+
+2023-12-18T10:59:50+00:00 CRITICAL Uncaught TypeError: rsort(): Argument #2 ($flags) must be of type int, Closure given in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\home-items.php:88
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\home-items.php(88): rsort(Array, Object(Closure))
+#1 C:\laragon\www\pvamarkets\wp-includes\template.php(792): require('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\wp-includes\template.php(725): load_template('C:\\laragon\\www\\...', false, Array)
+#3 C:\laragon\www\pvamarkets\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#4 C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\homepage.php(22): get_template_part('template-parts/...', 'items')
+#5 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#6 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#7 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#8 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\home-items.php on line 88
+

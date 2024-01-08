@@ -1,0 +1,28 @@
+2023-12-08T09:41:10+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/accountsseller/pvamarkets.com/wp-content/themes/bcmarket-6/inc/tickets.php:343
+Stack trace:
+#0 /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php(324): upload_attachments_callback()
+#1 /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /home/accountsseller/pvamarkets.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/accountsseller/pvamarkets.com/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown in /home/accountsseller/pvamarkets.com/wp-content/themes/bcmarket-6/inc/tickets.php on line 343
+
+2023-12-08T17:46:13+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in /home/accountsseller/pvamarkets.com/wp-content/themes/bcmarket-6/inc/woocommerce.php:391
+Stack trace:
+#0 /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php(324): bcmarket_gateway_by_wallet()
+#1 /home/accountsseller/pvamarkets.com/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/accountsseller/pvamarkets.com/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(163): apply_filters()
+#3 /home/accountsseller/pvamarkets.com/wp-content/plugins/woocommerce/src/Internal/Admin/WcPayWelcomePage.php(292): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /home/accountsseller/pvamarkets.com/wp-content/plugins/woocommerce/src/Internal/Admin/WcPayWelcomePage.php(82): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->get_incentive()
+#5 /home/accountsseller/pvamarkets.com/wp-content/plugins/woocommerce/src/Internal/Admin/Notes/PaymentsMoreInfoNeeded.php(42): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->must_be_visible()
+#6 /home/accountsseller/pvamarkets.com/wp-content/plugins/woocommerce/src/Internal/Admin/Notes/PaymentsMoreInfoNeeded.php(63): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::should_display_note()
+#7 /home/accountsseller/pvamarkets.com/wp-content/plugins/woocommerce/src/Admin/Notes/NoteTraits.php(83): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::get_note()
+#8 /home/accountsseller/pvamarkets.com/wp-content/plugins/woocommerce/src/Internal/Admin/Events.php(198): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::possibly_add_note()
+#9 /home/accountsseller/pvamarkets.com/wp-content/plugins/woocommerce/src/Internal/Admin/Events.php(145): Automattic\WooCommerce\Internal\Admin\Events->possibly_add_notes()
+#10 /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Internal\Admin\Events->do_wc_admin_daily()
+#11 /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/accountsseller/pvamarkets.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/accountsseller/pvamarkets.com/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+  thrown in /home/accountsseller/pvamarkets.com/wp-content/themes/bcmarket-6/inc/woocommerce.php on line 391
+

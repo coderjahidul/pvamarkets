@@ -1,0 +1,41 @@
+2023-12-23T03:35:29+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\WcPayWelcomePage.php(292): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\WcPayWelcomePage.php(82): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->get_incentive()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\PaymentsMoreInfoNeeded.php(42): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->must_be_visible()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\PaymentsMoreInfoNeeded.php(63): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::should_display_note()
+#7 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Notes\NoteTraits.php(83): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::get_note()
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Events.php(198): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::possibly_add_note()
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Events.php(145): Automattic\WooCommerce\Internal\Admin\Events->possibly_add_notes()
+#10 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): Automattic\WooCommerce\Internal\Admin\Events->do_wc_admin_daily()
+#11 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#13 C:\laragon\www\pvamarkets\wp-cron.php(191): do_action_ref_array('wc_admin_daily', Array)
+#14 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-23T10:41:26+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\content-item.php:4
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template.php(792): require()
+#1 C:\laragon\www\pvamarkets\wp-includes\template.php(725): load_template('C:\\laragon\\www\\...', false, Array)
+#2 C:\laragon\www\pvamarkets\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\home-items.php(98): get_template_part('template-parts/...', 'item')
+#4 C:\laragon\www\pvamarkets\wp-includes\template.php(792): require('C:\\laragon\\www\\...')
+#5 C:\laragon\www\pvamarkets\wp-includes\template.php(725): load_template('C:\\laragon\\www\\...', false, Array)
+#6 C:\laragon\www\pvamarkets\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#7 C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\homepage.php(22): get_template_part('template-parts/...', 'items')
+#8 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#9 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#10 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#11 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\content-item.php on line 4
+
+2023-12-23T10:58:10+00:00 CRITICAL Cannot redeclare custom_sort() (previously declared in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\content-item.php:27) in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\content-item.php on line 27
+
+2023-12-23T11:12:24+00:00 CRITICAL Cannot redeclare compareItems() (previously declared in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\home-items.php:5) in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\content-item.php on line 3
+
+2023-12-23T11:30:15+00:00 CRITICAL Cannot redeclare custom_sort() (previously declared in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\content-item.php:27) in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\template-parts\content-item.php on line 27
+

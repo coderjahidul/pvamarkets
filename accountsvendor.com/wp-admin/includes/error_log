@@ -1,0 +1,8 @@
+[12-Sep-2023 01:03:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/accountsseller/public_html/accountsvendor.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/accountsvendor.com/wp-admin/includes/admin.php on line 16
+[12-Sep-2023 01:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/accountsseller/public_html/accountsvendor.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/accountsvendor.com/wp-admin/includes/admin.php on line 16

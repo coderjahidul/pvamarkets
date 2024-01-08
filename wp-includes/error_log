@@ -1,0 +1,17 @@
+[10-Nov-2023 00:37:42 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/accountsseller/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2023 00:37:42 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/accountsseller/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2023 00:37:42 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home/accountsseller/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2023 00:37:42 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home/accountsseller/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2023 00:37:42 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/accountsseller/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2023 00:37:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/accountsseller/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-includes/class-wp-scripts.php on line 18
+[10-Nov-2023 00:38:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/accountsseller/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-includes/class-wp-styles.php on line 18
+[10-Nov-2023 00:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/accountsseller/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/accountsseller/public_html/wp-includes/template-canvas.php on line 12

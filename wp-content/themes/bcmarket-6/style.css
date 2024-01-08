@@ -1,0 +1,391 @@
+/**
+Theme Name: Bcmarket
+Theme URI: https://accs.bhuyanit.com
+Author: Jobayer
+Author URI: https://jobayerhossan.com
+Description: Bcmarket is custom based ecommerce website
+Version: 1.0
+Requires at least: 5.3
+Tested up to: 5.7.2
+Requires PHP: 5.3
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: bcmarket
+Tags: custom-menu, custom-logo, entertainment, one-column, two-columns
+ **/
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important; /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+  background-color: #eee;
+  clip: auto !important;
+  clip-path: none;
+  color: #444;
+  display: block;
+  font-size: 1em;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+  /* Above WP toolbar. */
+}
+
+
+#head_menu > li.current-menu-item a{
+      font-weight: 700;
+  border-bottom-color: #245f9b;
+  text-decoration: none;
+}
+
+.admin-bar .select2-dropdown {
+  margin-top: 32px;
+}
+
+
+.head-search input {
+  width: 100%;
+  height: 33px;
+  border: 1px solid #bec0bf;
+  padding-left: 35px;
+  font-size: 14px;
+  background: #fafafa url(img/new/search.png) no-repeat 6px;
+  border-radius: 4px;
+}
+.head-search input:hover{
+    background-color: #fff;
+}
+.head-search input.focused {
+  padding-left: 8px;
+  background: #fff;
+  outline: none;
+}
+
+
+
+.head_search_result {
+  box-shadow: 0 0 20px rgba(0,0,0,.5);
+  padding: 6px;
+  font-size: 14px;
+  border-radius: 4px;
+  border: 1px solid #aaa;
+  border-top: none;
+  background: #fff;
+  position: absolute;
+    top: 100%;
+    left: 12px;
+    width: calc(100% - 12px);
+    z-index: 111;
+
+}
+.head_search_result ul {
+  margin: 0pc;
+  padding: 0px;
+}
+.head_search_result ul li {
+  display: flex;
+  flex-wrap: wrap;
+  border-bottom: 1px dashed #bbb;
+  flex-flow: nowrap;
+  align-items: center;
+
+}
+.search_item_left {
+  flex: 0 0 29px;
+  max-width: 29px;
+}
+.search_item_right {
+  flex: 0 0 calc(100% - 29px);
+  max-width: calc(100% - 29px);
+}
+.search_item_left img {
+  width: 24px;
+  object-fit: contain;
+}
+.search_item_title h4 a {
+  color: #464646;
+  text-decoration: none;
+  display: flex;
+  margin: 0 0 0 5px;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 14px;
+  display: block;
+  text-overflow: ellipsis;
+
+}
+.custom-logo {
+  max-width: 180px;
+  height: auto;
+}
+
+.request_menu ul {
+  margin: 20px 0px !important;
+  padding: 0px !important;
+  list-style: none !important;
+  display: flex;
+}
+.request_menu ul li {
+  margin-right: 10px;
+}
+.lk .table .sub-col-data span.woocommerce-Price-amount.amount, .lk .table .sub-col-data span.woocommerce-Price-amount.amount span {
+  float: none;
+}
+.tickets_err {
+  color: red;
+}
+.footer_logo {
+  max-width: 180px;
+  height: auto;
+}
+.footer_menu ul{
+    margin:0px;
+    padding: 0px;
+}
+.soc-img img {
+  height: auto;
+}
+div.dataTables_wrapper div.dataTables_filter {
+  left: auto;
+}
+.dataTables_wrapper .dataTables_filter input {
+  padding-left: 40px !important;
+}
+#wc-wallet-transaction-details_wrapper {
+  padding-top: 30px;
+}
+
+#wc-wallet-transaction-details_next {
+  width: auto;
+  padding: 0px 5px;
+}
+#wc-wallet-transaction-details_previous {
+  width: auto;
+  padding: 0px 5px;
+} 
+.partner_payment_systems_info, .partner_payment_systems_info p {
+
+  padding: 20px 10px;
+}
+.wallet-pay-partial {
+  display: none;
+}
+
+.has_unread_message {
+  position: relative;
+}
+.has_unread_message:after {
+  content: '';
+  position: absolute;
+  right: 10px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #e80000;
+  top: calc(50% - 5px);
+}
+
+.soc_icon_block ul {
+  margin: 0px;
+  list-style: none;
+  padding: 0px;
+  display: flex;
+  justify-content: flex-end;
+}
+.soc_icon_block ul li a {
+  background: #245f9b;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 20px;
+  line-height: 1;
+  transition: 500ms;
+}
+.soc_icon_block ul li a:hover {
+  text-decoration: none;
+  background: #fda318;
+}
+
+.parnter_upload_popup {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  height: 100vh;
+  z-index: 999;
+}
+.partner_upload_container {
+  max-width: 800px;
+  width: 100%;
+  background: #fff;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+}
+.partner_upload_top {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px;
+  border-bottom: 1px solid #ddd;
+}
+.partner_upload_top h3 {
+  font-size: 18px;
+}
+.partner_upload_close {
+  cursor: pointer;
+}
+.partner_upload_form {
+  padding: 20px;
+}
+.partner_upload_textarea textarea {
+  width: 100% !important;
+  display: block;
+  height: 200px;
+}
+.partner_upload_action {
+  border-top: 1px solid #ddd;
+  padding-top: 15px;
+  margin-top: 15px;
+  display: flex;
+  justify-content: flex-end;
+}
+.partner_upload_action button {
+  margin-left: 10px;
+}
+
+.partner_upload_warning {
+  position: relative;
+}
+.partner_upload_warning .upload_warning:before {
+  top: 17px;
+  left: 10px;
+}
+
+.partner_price_popup {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.partner_price_container {
+  max-width: 500px;
+  width: 100%;
+  padding: 30px;
+  background: #fff;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+}
+.partner_price_top {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
+.partner_price_action {
+  padding: 10px 0px;
+}
+.price_close {
+  font-size: 20px;
+}

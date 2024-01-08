@@ -1,0 +1,19 @@
+2023-12-27T08:14:10+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\WcPayWelcomePage.php(292): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\WcPayWelcomePage.php(82): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->get_incentive()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\PaymentsMoreInfoNeeded.php(42): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->must_be_visible()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\PaymentsMoreInfoNeeded.php(63): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::should_display_note()
+#7 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Notes\NoteTraits.php(83): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::get_note()
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Events.php(198): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::possibly_add_note()
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Events.php(145): Automattic\WooCommerce\Internal\Admin\Events->possibly_add_notes()
+#10 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): Automattic\WooCommerce\Internal\Admin\Events->do_wc_admin_daily()
+#11 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#13 C:\laragon\www\pvamarkets\wp-cron.php(191): do_action_ref_array('wc_admin_daily', Array)
+#14 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+

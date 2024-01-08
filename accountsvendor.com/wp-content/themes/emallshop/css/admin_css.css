@@ -1,0 +1,220 @@
+/*
+* Theme Name: EmallShop
+* @package WordPress
+* @subpackage EmallShop
+* @since EmallShop 1.3
+Description: Used to style the admin side css.
+*/
+
+
+/**
+ * Table of Contents:
+ *
+ * 1.0 - Page/Post Metabox
+ * 2.0 - Typography
+ * 3.0 - Elements
+ * 4.0 - Alignment
+ * 5.0 - Caption
+ * 6.0 - Galleries
+ * 7.0 - Audio / Video
+ * 8.0 - RTL
+ * 9.0 - Media Queries
+ */
+
+
+/**
+ * 1.0 Page/Post Metabox
+ */
+
+.custom-meta.field_box{
+	border-bottom: 1px solid #eee;
+	display: flex;
+}
+.custom-meta.field_box .title{
+    display: inline-block;
+    width: 25%;
+	margin: 12px 0;
+	float:left;
+}
+.custom-meta.field_box .field {
+    display: inline-block;
+    width: 40%;
+	margin: 12px 0;
+}
+
+.custom-meta.field_box .field select{
+    width: 200px;
+}
+.custom-meta.field_box .description{
+	display: inline-block;
+	margin: 12px 0;
+    width: 35%;
+}
+#page_sidebar #_emallshop_sidebar_position_box.field_box input{ /* HIDE RADIO */
+  display:none;
+}
+#page_sidebar #_emallshop_sidebar_position_box.field_box input:checked + img{ /* (CHECKED) IMAGE STYLES */
+	border:2px solid #ccc;
+}
+#page_sidebar #_emallshop_sidebar_position_box.field_box input + img{ /* IMAGE STYLES */
+  cursor:pointer;
+  border:2px solid transparent;
+}
+
+#service_options .fa-service-icons { width:100%; height: 150px; overflow:auto; margin-top:10px; }
+#service_options .fa-service-icons span .aligner { width:1px; height:100%;}
+#service_options .fa-service-icons span > i {margin-right:1px;}
+#service_options .fa-service-icons span > * { vertical-align:middle; }
+#service_options .fa-service-icons span { padding:5px; display:inline-block; width:40px; height:40px; text-align:center; cursor:pointer; }
+#service_options .fa-service-icons span.selected,
+#service_options .fa-service-icons span:hover { background:#eee; }
+
+#bb_meta_box_post_format_image, #bb_meta_box_post_format_gallery, #bb_meta_box_post_format_video, #bb_meta_box_post_format_audio, #bb_meta_box_post_format_quote, #bb_meta_box_post_format_link{
+	display:none;
+}
+
+/*Redux Framework*/
+.redux-field-container .select2-container{
+	display:inline-block !important;
+}
+.redux-field-container .ui-button{
+	border-radius:0;
+	height:inherit;
+	font-size:1em;
+	font-family: inherit;
+}
+.redux-field-container .ui-button .ui-button-text{
+	padding:0;
+}
+.redux-field-container .ui-corner-left{
+	border-bottom-left-radius:4px;
+	border-top-left-radius:4px;
+}
+.redux-field-container .ui-corner-right{	
+	border-bottom-right-radius:4px;
+	border-top-right-radius:4px;	
+}
+.redux-container-switch .cb-enable span, .redux-container-switch .cb-disable span{
+	font-weight:600;
+}
+.updated.vc_license-activation-notice, .update-nag.bsf-update-nag, .updated.redux-message, .rs-update-notice-wrap {
+    display: none!important;
+}
+.emallshop-form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.emallshop-form #purchase-code{
+	padding:10px;
+	width: 500px;
+}
+
+/* 
+*  admin mega menu
+*/
+.menu-item-edit-active .menu-item-settings{
+	display:inline-block !important;
+}
+.emallshop-mega-menu-options {
+	margin-top: 10px;
+}
+
+.field-megamenu-status,
+.field-megamenu-width,
+.field-megamenu-columns,
+.field-megamenu-columnwidth,
+.field-megamenu-title,
+.field-megamenu-innertitle,
+.field-megamenu-widgetarea/* ,
+.emallshop-megamenu-upload-thumbnail.button-primary, */
+/* .field-megamenu-icon, */
+/* .field-megamenu-thumbnail,
+.emallshop-megamenu-thumbnail-image */ {
+	display: none;
+}
+
+.menu-item-depth-0 .field-megamenu-status,
+.menu-item-depth-0.emallshop-megamenu .field-megamenu-width,
+.menu-item-depth-0.emallshop-megamenu .field-megamenu-columns,
+.menu-item-depth-1.emallshop-megamenu .field-megamenu-columnwidth,
+.menu-item-depth-1.emallshop-megamenu .field-megamenu-title,
+.menu-item-depth-2.emallshop-megamenu .field-megamenu-innertitle,
+.menu-item-depth-1.emallshop-megamenu .field-megamenu-widgetarea,
+.menu-item-depth-2.emallshop-megamenu .field-megamenu-widgetarea,
+.menu-item-depth-0.emallshop-megamenu .field-megamenu-thumbnail,
+.menu-item-depth-1.emallshop-megamenu .field-megamenu-thumbnail/* ,
+.emallshop-megamenu .field-megamenu-icon  */{
+	display: block;
+}
+.menu-item-depth-0 .field-megamenu-thumbnail{
+	display: block;
+}
+
+.menu-item-depth-1.emallshop-megamenu.emallshop-megamenu-fullwidth .field-megamenu-columnwidth {
+	display: none;
+}
+
+.menu-item-depth-0 .emallshop-megamenu-upload-thumbnail,
+.menu-item-depth-1.emallshop-megamenu .emallshop-megamenu-upload-thumbnail {
+	display: inline-block;
+}
+
+.menu-item-depth-0 .emallshop-megamenu-thumbnail-image,
+.menu-item-depth-1.emallshop-megamenu .emallshop-megamenu-thumbnail-image {
+	max-width: 250px;
+}
+
+.menu-item-depth-0.emallshop-megamenu  .emallshop-megamenu-upload-thumbnail,
+.menu-item-depth-1.emallshop-megamenu  .emallshop-megamenu-upload-thumbnail {
+	margin-top: 0 !important;
+}
+
+.emallshop-megamenu-upload-thumbnail {
+	margin-top: 0.6em !important;
+}
+
+.field-megamenu-icon .icons-block {
+	padding: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	background: #f0f0f0;
+	border: 1px solid #ddd;
+	display: none;
+	width: 370px;
+	position: relative;
+}
+
+.field-megamenu-icon .icon-selector {
+	padding: 6px;
+	margin-top: 10px;
+	margin-left: -10px;
+	margin-right: -10px;
+	max-height: 160px;
+	overflow: auto;
+	display: block;
+}
+
+.field-megamenu-icon .icon-selector i {
+	border-radius: 2px;
+	display: inline-block;
+	padding: 6px;
+	margin: 4px;
+	width: 20px;
+	height: 20px;
+	border: 1px solid #dfdfdf;
+	background: #fff;
+	text-align: center;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.field-megamenu-icon .icon-selector i:before {
+	vertical-align: middle;
+}
+
+.field-megamenu-icon .icon-selector i.selected {
+	border-color: #0089bd;
+	background-color: #0089bd;
+	color: #fff;
+}

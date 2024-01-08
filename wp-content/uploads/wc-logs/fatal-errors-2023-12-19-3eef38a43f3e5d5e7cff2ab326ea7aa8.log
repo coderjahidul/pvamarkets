@@ -1,0 +1,527 @@
+2023-12-19T03:32:37+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\WcPayWelcomePage.php(292): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\WcPayWelcomePage.php(82): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->get_incentive()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\PaymentsMoreInfoNeeded.php(42): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->must_be_visible()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\PaymentsMoreInfoNeeded.php(63): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::should_display_note()
+#7 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Notes\NoteTraits.php(83): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::get_note()
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Events.php(198): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::possibly_add_note()
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Events.php(145): Automattic\WooCommerce\Internal\Admin\Events->possibly_add_notes()
+#10 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): Automattic\WooCommerce\Internal\Admin\Events->do_wc_admin_daily()
+#11 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#13 C:\laragon\www\pvamarkets\wp-cron.php(191): do_action_ref_array('wc_admin_daily', Array)
+#14 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T03:49:33+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\WcPayWelcomePage.php(292): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\WcPayWelcomePage.php(82): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->get_incentive()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\PaymentsMoreInfoNeeded.php(42): Automattic\WooCommerce\Internal\Admin\WcPayWelcomePage->must_be_visible()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\PaymentsMoreInfoNeeded.php(63): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::should_display_note()
+#7 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Notes\NoteTraits.php(83): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::get_note()
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Events.php(198): Automattic\WooCommerce\Internal\Admin\Notes\PaymentsMoreInfoNeeded::possibly_add_note()
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Internal\Admin\Events.php(145): Automattic\WooCommerce\Internal\Admin\Events->possibly_add_notes()
+#10 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): Automattic\WooCommerce\Internal\Admin\Events->do_wc_admin_daily()
+#11 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#13 C:\laragon\www\pvamarkets\wp-cron.php(191): do_action_ref_array('wc_admin_daily', Array)
+#14 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T04:20:48+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(71): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments::has_gateways()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php(103): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments->is_complete()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(304): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments->can_view()
+#7 [internal function]: Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->Automattic\WooCommerce\Admin\Features\OnboardingTasks\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments))
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(305): array_filter(Array, Object(Closure))
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(239): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_viewable_tasks()
+#10 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(327): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->is_complete()
+#11 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(403): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->possibly_track_completion()
+#12 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(745): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_json()
+#13 [internal function]: Automattic\WooCommerce\Admin\API\OnboardingTasks->Automattic\WooCommerce\Admin\API\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList))
+#14 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(744): array_map(Object(Closure), Array)
+#15 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1193): Automattic\WooCommerce\Admin\API\OnboardingTasks->get_tasks(Object(WP_REST_Request))
+#16 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', Array, NULL)
+#17 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\laragon\www\pvamarkets\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/wc-admin/onboa...')
+#19 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#21 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\laragon\www\pvamarkets\wp-includes\functions.php(1336): WP->main('')
+#25 C:\laragon\www\pvamarkets\wp-blog-header.php(16): wp()
+#26 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#27 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T04:21:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(71): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments::has_gateways()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php(103): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments->is_complete()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(304): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments->can_view()
+#7 [internal function]: Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->Automattic\WooCommerce\Admin\Features\OnboardingTasks\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments))
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(305): array_filter(Array, Object(Closure))
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(239): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_viewable_tasks()
+#10 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(327): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->is_complete()
+#11 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(403): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->possibly_track_completion()
+#12 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(745): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_json()
+#13 [internal function]: Automattic\WooCommerce\Admin\API\OnboardingTasks->Automattic\WooCommerce\Admin\API\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList))
+#14 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(744): array_map(Object(Closure), Array)
+#15 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1193): Automattic\WooCommerce\Admin\API\OnboardingTasks->get_tasks(Object(WP_REST_Request))
+#16 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', Array, NULL)
+#17 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\laragon\www\pvamarkets\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/wc-admin/onboa...')
+#19 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#21 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\laragon\www\pvamarkets\wp-includes\functions.php(1336): WP->main('')
+#25 C:\laragon\www\pvamarkets\wp-blog-header.php(16): wp()
+#26 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#27 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T04:22:30+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(71): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments::has_gateways()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php(103): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments->is_complete()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(304): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments->can_view()
+#7 [internal function]: Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->Automattic\WooCommerce\Admin\Features\OnboardingTasks\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments))
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(305): array_filter(Array, Object(Closure))
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(239): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_viewable_tasks()
+#10 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(327): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->is_complete()
+#11 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(403): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->possibly_track_completion()
+#12 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(745): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_json()
+#13 [internal function]: Automattic\WooCommerce\Admin\API\OnboardingTasks->Automattic\WooCommerce\Admin\API\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList))
+#14 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(744): array_map(Object(Closure), Array)
+#15 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1193): Automattic\WooCommerce\Admin\API\OnboardingTasks->get_tasks(Object(WP_REST_Request))
+#16 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', Array, NULL)
+#17 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\laragon\www\pvamarkets\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/wc-admin/onboa...')
+#19 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#21 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\laragon\www\pvamarkets\wp-includes\functions.php(1336): WP->main('')
+#25 C:\laragon\www\pvamarkets\wp-blog-header.php(16): wp()
+#26 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#27 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T04:23:08+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(71): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments::has_gateways()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php(103): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments->is_complete()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(304): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments->can_view()
+#7 [internal function]: Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->Automattic\WooCommerce\Admin\Features\OnboardingTasks\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments))
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(305): array_filter(Array, Object(Closure))
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(239): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_viewable_tasks()
+#10 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(327): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->is_complete()
+#11 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(403): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->possibly_track_completion()
+#12 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(745): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_json()
+#13 [internal function]: Automattic\WooCommerce\Admin\API\OnboardingTasks->Automattic\WooCommerce\Admin\API\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList))
+#14 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(744): array_map(Object(Closure), Array)
+#15 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1193): Automattic\WooCommerce\Admin\API\OnboardingTasks->get_tasks(Object(WP_REST_Request))
+#16 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', Array, NULL)
+#17 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\laragon\www\pvamarkets\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/wc-admin/onboa...')
+#19 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#21 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\laragon\www\pvamarkets\wp-includes\functions.php(1336): WP->main('')
+#25 C:\laragon\www\pvamarkets\wp-blog-header.php(16): wp()
+#26 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#27 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T04:25:47+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(71): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments::has_gateways()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php(103): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments->is_complete()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(304): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments->can_view()
+#7 [internal function]: Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->Automattic\WooCommerce\Admin\Features\OnboardingTasks\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments))
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(305): array_filter(Array, Object(Closure))
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(239): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_viewable_tasks()
+#10 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(327): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->is_complete()
+#11 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(403): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->possibly_track_completion()
+#12 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(745): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_json()
+#13 [internal function]: Automattic\WooCommerce\Admin\API\OnboardingTasks->Automattic\WooCommerce\Admin\API\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList))
+#14 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(744): array_map(Object(Closure), Array)
+#15 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1193): Automattic\WooCommerce\Admin\API\OnboardingTasks->get_tasks(Object(WP_REST_Request))
+#16 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', Array, NULL)
+#17 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\laragon\www\pvamarkets\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/wc-admin/onboa...')
+#19 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#21 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\laragon\www\pvamarkets\wp-includes\functions.php(1336): WP->main('')
+#25 C:\laragon\www\pvamarkets\wp-blog-header.php(16): wp()
+#26 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#27 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T04:28:47+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(71): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments::has_gateways()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php(103): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments->is_complete()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(304): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments->can_view()
+#7 [internal function]: Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->Automattic\WooCommerce\Admin\Features\OnboardingTasks\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments))
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(305): array_filter(Array, Object(Closure))
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(239): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_viewable_tasks()
+#10 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(327): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->is_complete()
+#11 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(403): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->possibly_track_completion()
+#12 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(745): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_json()
+#13 [internal function]: Automattic\WooCommerce\Admin\API\OnboardingTasks->Automattic\WooCommerce\Admin\API\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList))
+#14 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(744): array_map(Object(Closure), Array)
+#15 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1193): Automattic\WooCommerce\Admin\API\OnboardingTasks->get_tasks(Object(WP_REST_Request))
+#16 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', Array, NULL)
+#17 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\laragon\www\pvamarkets\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/wc-admin/onboa...')
+#19 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#21 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\laragon\www\pvamarkets\wp-includes\functions.php(1336): WP->main('')
+#25 C:\laragon\www\pvamarkets\wp-blog-header.php(16): wp()
+#26 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#27 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T04:30:58+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(71): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments::has_gateways()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php(103): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments->is_complete()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(304): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments->can_view()
+#7 [internal function]: Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->Automattic\WooCommerce\Admin\Features\OnboardingTasks\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments))
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(305): array_filter(Array, Object(Closure))
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(239): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_viewable_tasks()
+#10 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(327): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->is_complete()
+#11 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(403): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->possibly_track_completion()
+#12 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(745): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_json()
+#13 [internal function]: Automattic\WooCommerce\Admin\API\OnboardingTasks->Automattic\WooCommerce\Admin\API\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList))
+#14 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(744): array_map(Object(Closure), Array)
+#15 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1193): Automattic\WooCommerce\Admin\API\OnboardingTasks->get_tasks(Object(WP_REST_Request))
+#16 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', Array, NULL)
+#17 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\laragon\www\pvamarkets\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/wc-admin/onboa...')
+#19 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#21 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\laragon\www\pvamarkets\wp-includes\functions.php(1336): WP->main('')
+#25 C:\laragon\www\pvamarkets\wp-blog-header.php(16): wp()
+#26 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#27 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T04:35:48+00:00 CRITICAL Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\partner-functions.php:62
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\partner-functions.php(62): implode(',', NULL)
+#1 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): add_bids_callback('')
+#2 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\laragon\www\pvamarkets\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\laragon\www\pvamarkets\wp-admin\admin-ajax.php(188): do_action('wp_ajax_add_bid...')
+#5 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\partner-functions.php on line 62
+
+2023-12-19T04:37:44+00:00 CRITICAL Uncaught TypeError: array_diff_assoc(): Argument #2 must be of type array, null given in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\partner-functions.php:223
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\partner-functions.php(223): array_diff_assoc(Array, NULL)
+#1 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): upload_accounts_callback('')
+#2 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\laragon\www\pvamarkets\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\laragon\www\pvamarkets\wp-admin\admin-ajax.php(188): do_action('wp_ajax_upload_...')
+#5 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\partner-functions.php on line 223
+
+2023-12-19T04:48:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(71): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments::has_gateways()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php(103): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments->is_complete()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(304): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments->can_view()
+#7 [internal function]: Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->Automattic\WooCommerce\Admin\Features\OnboardingTasks\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments))
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(305): array_filter(Array, Object(Closure))
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(239): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_viewable_tasks()
+#10 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(327): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->is_complete()
+#11 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(403): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->possibly_track_completion()
+#12 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(745): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_json()
+#13 [internal function]: Automattic\WooCommerce\Admin\API\OnboardingTasks->Automattic\WooCommerce\Admin\API\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList))
+#14 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(744): array_map(Object(Closure), Array)
+#15 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1193): Automattic\WooCommerce\Admin\API\OnboardingTasks->get_tasks(Object(WP_REST_Request))
+#16 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', Array, NULL)
+#17 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\laragon\www\pvamarkets\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/wc-admin/onboa...')
+#19 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#21 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\laragon\www\pvamarkets\wp-includes\functions.php(1336): WP->main('')
+#25 C:\laragon\www\pvamarkets\wp-blog-header.php(16): wp()
+#26 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#27 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T04:55:48+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(71): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments::has_gateways()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php(103): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments->is_complete()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(304): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments->can_view()
+#7 [internal function]: Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->Automattic\WooCommerce\Admin\Features\OnboardingTasks\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments))
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(305): array_filter(Array, Object(Closure))
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(239): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_viewable_tasks()
+#10 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(327): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->is_complete()
+#11 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(403): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->possibly_track_completion()
+#12 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(745): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_json()
+#13 [internal function]: Automattic\WooCommerce\Admin\API\OnboardingTasks->Automattic\WooCommerce\Admin\API\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList))
+#14 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(744): array_map(Object(Closure), Array)
+#15 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1193): Automattic\WooCommerce\Admin\API\OnboardingTasks->get_tasks(Object(WP_REST_Request))
+#16 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', Array, NULL)
+#17 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\laragon\www\pvamarkets\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/wc-admin/onboa...')
+#19 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#21 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\laragon\www\pvamarkets\wp-includes\functions.php(1336): WP->main('')
+#25 C:\laragon\www\pvamarkets\wp-blog-header.php(16): wp()
+#26 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#27 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T04:58:20+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(71): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments::has_gateways()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php(103): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments->is_complete()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(304): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments->can_view()
+#7 [internal function]: Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->Automattic\WooCommerce\Admin\Features\OnboardingTasks\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments))
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(305): array_filter(Array, Object(Closure))
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(239): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_viewable_tasks()
+#10 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(327): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->is_complete()
+#11 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(403): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->possibly_track_completion()
+#12 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(745): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_json()
+#13 [internal function]: Automattic\WooCommerce\Admin\API\OnboardingTasks->Automattic\WooCommerce\Admin\API\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList))
+#14 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(744): array_map(Object(Closure), Array)
+#15 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1193): Automattic\WooCommerce\Admin\API\OnboardingTasks->get_tasks(Object(WP_REST_Request))
+#16 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', Array, NULL)
+#17 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\laragon\www\pvamarkets\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/wc-admin/onboa...')
+#19 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#21 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\laragon\www\pvamarkets\wp-includes\functions.php(1336): WP->main('')
+#25 C:\laragon\www\pvamarkets\wp-blog-header.php(16): wp()
+#26 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#27 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T07:27:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents() on null in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php:391
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): bcmarket_gateway_by_wallet(Array)
+#1 C:\laragon\www\pvamarkets\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Payments.php(71): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments::has_gateways()
+#5 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php(103): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\Payments->is_complete()
+#6 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(304): Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments->can_view()
+#7 [internal function]: Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->Automattic\WooCommerce\Admin\Features\OnboardingTasks\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments))
+#8 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(305): array_filter(Array, Object(Closure))
+#9 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(239): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_viewable_tasks()
+#10 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(327): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->is_complete()
+#11 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php(403): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->possibly_track_completion()
+#12 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(745): Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList->get_json()
+#13 [internal function]: Automattic\WooCommerce\Admin\API\OnboardingTasks->Automattic\WooCommerce\Admin\API\{closure}(Object(Automattic\WooCommerce\Admin\Features\OnboardingTasks\TaskList))
+#14 C:\laragon\www\pvamarkets\wp-content\plugins\woocommerce\src\Admin\API\OnboardingTasks.php(744): array_map(Object(Closure), Array)
+#15 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1193): Automattic\WooCommerce\Admin\API\OnboardingTasks->get_tasks(Object(WP_REST_Request))
+#16 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', Array, NULL)
+#17 C:\laragon\www\pvamarkets\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\laragon\www\pvamarkets\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/wc-admin/onboa...')
+#19 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\laragon\www\pvamarkets\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#21 C:\laragon\www\pvamarkets\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\laragon\www\pvamarkets\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\laragon\www\pvamarkets\wp-includes\functions.php(1336): WP->main('')
+#25 C:\laragon\www\pvamarkets\wp-blog-header.php(16): wp()
+#26 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#27 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\inc\woocommerce.php on line 391
+
+2023-12-19T08:41:06+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string / int in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:136
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 136
+
+2023-12-19T08:42:57+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: int / string in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:136
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 136
+
+2023-12-19T08:43:44+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: int / string in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:136
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 136
+
+2023-12-19T08:48:18+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: int / string in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:138
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 138
+
+2023-12-19T08:51:03+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: int / string in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:137
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 137
+
+2023-12-19T08:52:02+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:140
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 140
+
+2023-12-19T08:52:16+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:140
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 140
+
+2023-12-19T08:53:13+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:140
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 140
+
+2023-12-19T08:55:29+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string / int in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:140
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 140
+
+2023-12-19T08:56:09+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: int / string in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:140
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 140
+
+2023-12-19T09:07:26+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:143
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 143
+
+2023-12-19T09:10:36+00:00 CRITICAL Uncaught Error: Call to undefined function convertStringToInt() in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:142
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 142
+
+2023-12-19T09:17:19+00:00 CRITICAL Uncaught ArgumentCountError: str_replace() expects at least 3 arguments, 2 given in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:136
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php(136): str_replace('$', '<span class="wo...')
+#1 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 136
+
+2023-12-19T09:29:12+00:00 CRITICAL syntax error, unexpected identifier "var_dump" in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 149
+
+2023-12-19T09:29:44+00:00 CRITICAL Uncaught Error: Call to undefined function convertStringToInt() in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:148
+Stack trace:
+#0 C:\laragon\www\pvamarkets\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\pvamarkets\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pvamarkets\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 148
+
+2023-12-19T09:33:59+00:00 CRITICAL Cannot redeclare convertStringToInt() (previously declared in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php:137) in C:\laragon\www\pvamarkets\wp-content\themes\bcmarket-6\admin\orders.php on line 137
+

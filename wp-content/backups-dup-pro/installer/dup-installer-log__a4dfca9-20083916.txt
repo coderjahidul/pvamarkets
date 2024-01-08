@@ -1,0 +1,3056 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 10:32:14
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 7.4.33                                |7.4.33
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 7.4.33 | SAPI: litespeed
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: LiteSpeed
+DOC ROOT____________: "/home/accountsseller/pvamarkets.com"
+REQUEST URL_________: "http://pvamarkets.com"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[cpnl-dbaction]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+INSTALL MODES_______: CLASSIC
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/home/accountsseller/pvamarkets.com"
+URL_NEW_____________: "http://pvamarkets.com"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/home/accountsseller/pvamarkets.com/20231120_accountsseller_[HASH]_20231120083916_archive.zip"
+ARCHIVE SIZE________: 718.9MB
+CREATED_____________: 2023-11-20 08:39:16
+WP VERSION__________: 6.4.1
+DUP VERSION_________: 4.5.10
+LICENSE_____________: unlicensed
+DB VERSION__________: 10.6.16
+DB FILE SIZE________: 108.84MB
+DB TABLES___________: 169
+DB ROWS_____________: 323136
+URL HOME____________: https://accountsseller.com
+URL CORE____________: https://accountsseller.com
+URL CONTENT_________: https://accountsseller.com/wp-content
+URL UPLOAD__________: https://accountsseller.com/wp-content/uploads
+URL PLUGINS_________: https://accountsseller.com/wp-content/plugins
+URL MU PLUGINS______: https://accountsseller.com/wp-content/mu-plugins
+URL THEMES__________: https://accountsseller.com/wp-content/themes
+PATH HOME___________: /home/accountsseller/public_html
+PATH ABS____________: /home/accountsseller/public_html
+PATH WPCONFIG_______: /home/accountsseller/public_html
+PATH WPCONTENT______: /home/accountsseller/public_html/wp-content
+PATH UPLOADS________: /home/accountsseller/public_html/wp-content/uploads
+PATH PLUGINS________: /home/accountsseller/public_html/wp-content/plugins
+PATH MUPLUGINS______: /home/accountsseller/public_html/wp-content/mu-plugins
+PATH THEMES_________: /home/accountsseller/public_html/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "accountsseller.com/"
+
+PLUGINS
+PLUGIN [SLUG:advanced-custom-fields/acf.php                    ][ON:true ]  Advanced Custom Fields
+PLUGIN [SLUG:add-id-column/benawp-add-id-column.php            ][ON:true ]  Ajouter une colonne d'ID
+PLUGIN [SLUG:all-in-one-wp-migration/all-in-one-wp-migration.php][ON:true ]  All-in-One WP Migration
+PLUGIN [SLUG:all-in-one-wp-migration-unlimited-extension/all-in-one-wp-migration-unlimited-extension.php][ON:true ]  All-in-One WP Migration Unlimited Extension
+PLUGIN [SLUG:classic-editor/classic-editor.php                 ][ON:true ]  Classic Editor
+PLUGIN [SLUG:coinbase-commerce/coinbase-commerce.php           ][ON:false]  Coinbase Commerce
+PLUGIN [SLUG:commerce-coinbase-for-woocommerce/coinbase-gateway-for-woocommerce.php][ON:false]  Coinbase Commerce For WooCommerce
+PLUGIN [SLUG:download-monitor/download-monitor.php             ][ON:false]  Download Monitor
+PLUGIN [SLUG:download-theme/download-theme.php                 ][ON:true ]  Download Theme
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ]  Duplicator Pro
+PLUGIN [SLUG:fullwidth-templates/fullwidth-page-template.php   ][ON:false]  Fullwidth Page Templates
+PLUGIN [SLUG:header-footer-code-manager/99robots-header-footer-code-manager.php][ON:true ]  Header Footer Code Manager
+PLUGIN [SLUG:imagify/imagify.php                               ][ON:false]  Imagify
+PLUGIN [SLUG:users-customers-import-export-for-wp-woocommerce/users-customers-import-export-for-wp-woocommerce.php][ON:false]  Import Export WordPress Users and WooCommerce Customers
+PLUGIN [SLUG:fast-indexing-api/instant-indexing.php            ][ON:true ]  Instant Indexing
+PLUGIN [SLUG:jetpack/jetpack.php                               ][ON:false]  Jetpack
+PLUGIN [SLUG:mailchimp-for-wp/mailchimp-for-wp.php             ][ON:true ]  MC4WP: Mailchimp for WordPress
+PLUGIN [SLUG:members/members.php                               ][ON:true ]  Members
+PLUGIN [SLUG:nowpayments-for-woocommerce/nowpayments-for-woocommerce.php][ON:true ]  NOWPayments for WooCommerce
+PLUGIN [SLUG:cash-pickup/payment-cash-pickup.php               ][ON:true ]  Payment Cash Pickup
+PLUGIN [SLUG:pl-emallshop-extensions/pl-emallshop-extensions.php][ON:false]  PL EmallShop Extensions
+PLUGIN [SLUG:post-duplicator/m4c-postduplicator.php            ][ON:true ]  Post Duplicator
+PLUGIN [SLUG:woo-preview-emails/woocommerce-preview-emails.php ][ON:true ]  Preview E-mails for WooCommerce
+PLUGIN [SLUG:seo-by-rank-math/rank-math.php                    ][ON:true ]  Rank Math SEO
+PLUGIN [SLUG:reorder-by-term/reorder-by-term.php               ][ON:true ]  Reorder by Term
+PLUGIN [SLUG:metronet-reorder-posts/index.php                  ][ON:true ]  Reorder Posts
+PLUGIN [SLUG:reorder-terms/reorder-terms.php                   ][ON:true ]  Reorder Terms
+PLUGIN [SLUG:wt-woocommerce-sequential-order-numbers/wt-advanced-order-number.php][ON:true ]  Sequential Order Numbers for WooCommerce
+PLUGIN [SLUG:sinek-gateway-woocommerce/sinek.php               ][ON:true ]  Sinek
+PLUGIN [SLUG:revslider/revslider.php                           ][ON:false]  Slider Revolution
+PLUGIN [SLUG:softtech-it-perfect-money/index.php               ][ON:true ]  SoftTech IT Perfect Money
+PLUGIN [SLUG:woo-wallet/woo-wallet.php                         ][ON:true ]  TeraWallet
+PLUGIN [SLUG:Ultimate_VC_Addons/Ultimate_VC_Addons.php         ][ON:false]  Ultimate Addons for WPBakery Page Builder
+PLUGIN [SLUG:user-role-editor/user-role-editor.php             ][ON:true ]  User Role Editor
+PLUGIN [SLUG:widget-settings-importexport/widget-data.php      ][ON:false]  Widget Data - Setting Import/Export Plugin
+PLUGIN [SLUG:woocommerce/woocommerce.php                       ][ON:true ]  WooCommerce
+PLUGIN [SLUG:woocommerce-admin/woocommerce-admin.php           ][ON:false]  WooCommerce Admin
+PLUGIN [SLUG:wc-cash-on-pickup/wc-cash-on-pickup.php           ][ON:true ]  WooCommerce Cash On Pickup
+PLUGIN [SLUG:woo-custom-product-addons/start.php               ][ON:false]  WooCommerce Custom Product Addons Free
+PLUGIN [SLUG:wordfence/wordfence.php                           ][ON:false]  Wordfence Security
+PLUGIN [SLUG:wordpress-importer/wordpress-importer.php         ][ON:true ]  WordPress Importer
+PLUGIN [SLUG:wp-all-export/wp-all-export.php                   ][ON:false]  WP All Export
+PLUGIN [SLUG:wp-cerber/wp-cerber.php                           ][ON:false]  WP Cerber Security, Anti-spam & Malware Scan
+PLUGIN [SLUG:wp-file-manager/file_folder_manager.php           ][ON:true ]  WP File Manager
+PLUGIN [SLUG:wp-phpmyadmin-extension/index.php                 ][ON:false]  WP phpMyAdmin
+PLUGIN [SLUG:wpspeedup/wnw_optimization.php                    ][ON:false]  WpSpeedup
+PLUGIN [SLUG:wordpress-seo/wp-seo.php                          ][ON:false]  Yoast SEO
+PLUGIN [SLUG:maintenance.php                                   ][ON:false]  maintenance.php
+
+********************************************************************************
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/ctrls/ctrl.base.php:166][DELTA:   0.03709]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+SET VALUE install-type
+SET VALUE path_new
+SET VALUE url_new
+SET VALUE path_core_new
+SET VALUE siteurl
+SET VALUE path_cont_new
+SET VALUE url_cont_new
+SET VALUE path_upl_new
+SET VALUE url_upl_new
+SET VALUE path_plug_new
+SET VALUE url_plug_new
+SET VALUE path_muplug_new
+SET VALUE url_muplug_new
+SET VALUE subsite_id
+SET VALUE subsite_owr_mapping
+SET VALUE archive_action
+SET VALUE archive_engine
+SET VALUE archive_engine_wpskip
+SET VALUE db-engine
+SET VALUE mode_chunking
+SET VALUE users_mode
+SET VALUE mu_replace
+SET VALUE subsite_users_mode
+SET VALUE set_file_perms
+SET VALUE set_dir_perms
+SET VALUE file_perms_value
+SET VALUE dir_perms_value
+SET VALUE exe_safe_mode
+SET VALUE wp_config
+SET VALUE ht_config
+SET VALUE other_config
+SET VALUE zip_filetime
+SET VALUE remove-redundant
+SET VALUE remove-users-without-permissions
+SET VALUE blogname
+SET VALUE accept-warnings
+SET VALUE zip_throttling
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/ctrls/ctrl.base.php:166][DELTA:   0.02296]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: good
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+LOG-TIME[DELTA:   2.23421]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00060]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "Wordpress Configuration" [CLASS: DUPX_Validation_test_wp_config]
+LOG-TIME[DELTA:   0.00171]  MESSAGE:TEST "Wordpress Configuration" RESULT: passed
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00000]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Functions and Classes" [CLASS: DUPX_Validation_test_php_functionalities]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Functions and Classes" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00047]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.11149]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00103]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00125]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00015]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00036]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00086]  MESSAGE:TEST "Multiple WP Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][/home/accountsseller/pvamarkets.com/dup-installer/classes/database/class.db.php:678] MSG: SELECT command denied to user 'accountsseller_pvamarkets'@'localhost' for table `mysql`.`user`
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'accountsseller_pvamarkets' AND host = 'localhost'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: /home/accountsseller/pvamarkets.com/dup-installer/classes/validation/class.validation.database.service.php[983]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: /home/accountsseller/pvamarkets.com/dup-installer/classes/validation/database-tests/class.validation.test.db.user.resources.php[28]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: /home/accountsseller/pvamarkets.com/dup-installer/classes/validation/class.validation.abstract.item.php[46]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: /home/accountsseller/pvamarkets.com/dup-installer/classes/validation/class.validation.manager.php[228]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: /home/accountsseller/pvamarkets.com/dup-installer/classes/validation/class.validation.manager.php[201]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: /home/accountsseller/pvamarkets.com/dup-installer/ctrls/classes/class.ctrl.ajax.php[171]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: /home/accountsseller/pvamarkets.com/dup-installer/ctrls/classes/class.ctrl.ajax.php[96]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: /home/accountsseller/pvamarkets.com/dup-installer/main.installer.php[47]
+
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.06967]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00030]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00050]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00071]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: soft warning
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00031]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00000]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+SET VALUE install-type
+SET VALUE path_new
+SET VALUE url_new
+SET VALUE path_core_new
+SET VALUE siteurl
+SET VALUE path_cont_new
+SET VALUE url_cont_new
+SET VALUE path_upl_new
+SET VALUE url_upl_new
+SET VALUE path_plug_new
+SET VALUE url_plug_new
+SET VALUE path_muplug_new
+SET VALUE url_muplug_new
+SET VALUE subsite_id
+SET VALUE subsite_owr_mapping
+SET VALUE archive_action
+SET VALUE archive_engine
+SET VALUE archive_engine_wpskip
+SET VALUE db-engine
+SET VALUE mode_chunking
+SET VALUE users_mode
+SET VALUE mu_replace
+SET VALUE subsite_users_mode
+SET VALUE set_file_perms
+SET VALUE set_dir_perms
+SET VALUE file_perms_value
+SET VALUE dir_perms_value
+SET VALUE exe_safe_mode
+SET VALUE wp_config
+SET VALUE ht_config
+SET VALUE other_config
+SET VALUE zip_filetime
+SET VALUE remove-redundant
+SET VALUE remove-users-without-permissions
+SET VALUE blogname
+SET VALUE accept-warnings
+SET VALUE zip_throttling
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 10:32:58
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "Accountsseller"
+HOME URL NEW________: "http://pvamarkets.com"
+SITE URL NEW________: "http://pvamarkets.com"
+CONTENT URL NEW_____: "http://pvamarkets.com/wp-content"
+UPLOAD URL NEW______: "http://pvamarkets.com/wp-content/uploads"
+PLUGINS URL NEW_____: "http://pvamarkets.com/wp-content/plugins"
+MUPLUGINS URL NEW___: "http://pvamarkets.com/wp-content/mu-plugins"
+HOME PATH NEW_______: "/home/accountsseller/pvamarkets.com"
+SITE PATH NEW_______: "/home/accountsseller/pvamarkets.com"
+CONTENT PATH NEW____: "/home/accountsseller/pvamarkets.com/wp-content"
+UPLOAD PATH NEW_____: "/home/accountsseller/pvamarkets.com/wp-content/uploads"
+PLUGINS PATH NEW____: "/home/accountsseller/pvamarkets.com/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/home/accountsseller/pvamarkets.com/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/home/accountsseller/pvamarkets.com/accountsvendor.com"
+	DIR : "/home/accountsseller/pvamarkets.com/dup-installer"
+	FILE: "/home/accountsseller/pvamarkets.com/20231120_accountsseller_[HASH]_20231120083916_installer-backup.php"
+	FILE: "/home/accountsseller/pvamarkets.com/20231120_accountsseller_[HASH]_20231120083916_archive.zip"
+	FILE: "/home/accountsseller/pvamarkets.com/installer.php"
+	FILE: "/home/accountsseller/pvamarkets.com/dup-installer-bootlog__a4dfca9-20083916.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20231120_accountsseller_[HASH]_20231120083916_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+RESET CONFIG FILES: I'M GOING TO MOVE CONFIG FILE ".htaccess" IN ORIGINAL FOLDER
+	CONFIG FILE HAS BEEN RESET
+*** RESET CONFIG FILES END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+CHUNK COMPLETE - RUNTIME: 5.0908 sec. - Files processed: 3,818 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 3818
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0323 sec. - Files processed: 4,981 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 4981
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0424 sec. - Files processed: 9,308 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 9308
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1096 sec. - Files processed: 14,719 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 14719
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0340 sec. - Files processed: 21,122 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 21122
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 6.8184 sec. - Files processed: 23,113 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 23113
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1324 sec. - Files processed: 25,807 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 25807
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0359 sec. - Files processed: 26,493 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 26493
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1384 sec. - Files processed: 26,908 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 26908
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1225 sec. - Files processed: 27,235 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 27235
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1300 sec. - Files processed: 30,114 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 30114
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0643 sec. - Files processed: 31,253 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 31253
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1070 sec. - Files processed: 34,923 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 34923
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0410 sec. - Files processed: 39,259 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 39259
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0330 sec. - Files processed: 42,333 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 42333
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0936 sec. - Files processed: 49,997 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 49997
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0495 sec. - Files processed: 55,080 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 55080
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+FILE EXTRACTION: done processing last file in list of 63990
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 10:34:36 - RUNTIME: 100.3941 sec. - Files processed: 63,147 of 63,147
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wpkn_
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 10:34:37
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wpkn_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "cerber_acl"______________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: cerber_acl]
+TABLE "cerber_blocks"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: cerber_blocks]
+TABLE "cerber_countries"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: cerber_countries]
+TABLE "cerber_lab"______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: cerber_lab]
+TABLE "cerber_lab_ip"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: cerber_lab_ip]
+TABLE "cerber_lab_net"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: cerber_lab_net]
+TABLE "cerber_log"______________________________________[ROWS:    2774] [EXTRACT|REPLACE] [INST NAME: cerber_log]
+TABLE "cerber_qmem"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: cerber_qmem]
+TABLE "cerber_traffic"__________________________________[ROWS:    2710] [EXTRACT|REPLACE] [INST NAME: cerber_traffic]
+TABLE "wpkn_accounts"___________________________________[ROWS:  117700] [EXTRACT|REPLACE] [INST NAME: wpkn_accounts]
+TABLE "wpkn_actionscheduler_actions"____________________[ROWS:     411] [EXTRACT|REPLACE] [INST NAME: wpkn_actionscheduler_actions]
+TABLE "wpkn_actionscheduler_claims"_____________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpkn_actionscheduler_claims]
+TABLE "wpkn_actionscheduler_groups"_____________________[ROWS:       9] [EXTRACT|REPLACE] [INST NAME: wpkn_actionscheduler_groups]
+TABLE "wpkn_actionscheduler_logs"_______________________[ROWS:    1233] [EXTRACT|REPLACE] [INST NAME: wpkn_actionscheduler_logs]
+TABLE "wpkn_cerber_files"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_cerber_files]
+TABLE "wpkn_cerber_sets"________________________________[ROWS:    1776] [EXTRACT|REPLACE] [INST NAME: wpkn_cerber_sets]
+TABLE "wpkn_cerber_uss"_________________________________[ROWS:    2208] [EXTRACT|REPLACE] [INST NAME: wpkn_cerber_uss]
+TABLE "wpkn_commentmeta"________________________________[ROWS:     124] [EXTRACT|REPLACE] [INST NAME: wpkn_commentmeta]
+TABLE "wpkn_comments"___________________________________[ROWS:    3069] [EXTRACT|REPLACE] [INST NAME: wpkn_comments]
+TABLE "wpkn_dlm_downloads"______________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wpkn_dlm_downloads]
+TABLE "wpkn_dlm_order"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_dlm_order]
+TABLE "wpkn_dlm_order_customer"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_dlm_order_customer]
+TABLE "wpkn_dlm_order_item"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_dlm_order_item]
+TABLE "wpkn_dlm_order_transaction"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_dlm_order_transaction]
+TABLE "wpkn_dlm_reports_log"____________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpkn_dlm_reports_log]
+TABLE "wpkn_dlm_session"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_dlm_session]
+TABLE "wpkn_download_log"_______________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wpkn_download_log]
+TABLE "wpkn_duplicator_pro_entities"____________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wpkn_duplicator_pro_entities]
+TABLE "wpkn_duplicator_pro_packages"____________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpkn_duplicator_pro_packages]
+TABLE "wpkn_easywpsmtp_debug_events"____________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wpkn_easywpsmtp_debug_events]
+TABLE "wpkn_easywpsmtp_tasks_meta"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_easywpsmtp_tasks_meta]
+TABLE "wpkn_failed_jobs"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_failed_jobs]
+TABLE "wpkn_hfcm_scripts"_______________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpkn_hfcm_scripts]
+TABLE "wpkn_imagify_files"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_imagify_files]
+TABLE "wpkn_imagify_folders"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_imagify_folders]
+TABLE "wpkn_links"______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_links]
+TABLE "wpkn_mailchimp_carts"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_mailchimp_carts]
+TABLE "wpkn_mailchimp_jobs"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_mailchimp_jobs]
+TABLE "wpkn_mollie_pending_payment"_____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_mollie_pending_payment]
+TABLE "wpkn_mvx_cust_answers"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_mvx_cust_answers]
+TABLE "wpkn_mvx_cust_questions"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_mvx_cust_questions]
+TABLE "wpkn_mvx_products_map"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_mvx_products_map]
+TABLE "wpkn_mvx_shipping_zone_locations"________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_mvx_shipping_zone_locations]
+TABLE "wpkn_mvx_shipping_zone_methods"__________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_mvx_shipping_zone_methods]
+TABLE "wpkn_mvx_vendor_ledger"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_mvx_vendor_ledger]
+TABLE "wpkn_mvx_vendor_orders"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_mvx_vendor_orders]
+TABLE "wpkn_mvx_visitors_stats"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_mvx_visitors_stats]
+TABLE "wpkn_options"____________________________________[ROWS:     848] [EXTRACT|REPLACE] [INST NAME: wpkn_options]
+TABLE "wpkn_pmxe_exports"_______________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpkn_pmxe_exports]
+TABLE "wpkn_pmxe_google_cats"___________________________[ROWS:    5371] [EXTRACT|REPLACE] [INST NAME: wpkn_pmxe_google_cats]
+TABLE "wpkn_pmxe_posts"_________________________________[ROWS:    2037] [EXTRACT|REPLACE] [INST NAME: wpkn_pmxe_posts]
+TABLE "wpkn_pmxe_templates"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_pmxe_templates]
+TABLE "wpkn_postmeta"___________________________________[ROWS:   82664] [EXTRACT|REPLACE] [INST NAME: wpkn_postmeta]
+TABLE "wpkn_posts"______________________________________[ROWS:    3661] [EXTRACT|REPLACE] [INST NAME: wpkn_posts]
+TABLE "wpkn_post_smtp_logmeta"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_post_smtp_logmeta]
+TABLE "wpkn_post_smtp_logs"_____________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wpkn_post_smtp_logs]
+TABLE "wpkn_queue"______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_queue]
+TABLE "wpkn_rank_math_404_logs"_________________________[ROWS:      29] [EXTRACT|REPLACE] [INST NAME: wpkn_rank_math_404_logs]
+TABLE "wpkn_rank_math_analytics_objects"________________[ROWS:     163] [EXTRACT|REPLACE] [INST NAME: wpkn_rank_math_analytics_objects]
+TABLE "wpkn_rank_math_internal_links"___________________[ROWS:     344] [EXTRACT|REPLACE] [INST NAME: wpkn_rank_math_internal_links]
+TABLE "wpkn_rank_math_internal_meta"____________________[ROWS:     726] [EXTRACT|REPLACE] [INST NAME: wpkn_rank_math_internal_meta]
+TABLE "wpkn_rank_math_redirections"_____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_rank_math_redirections]
+TABLE "wpkn_rank_math_redirections_cache"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_rank_math_redirections_cache]
+TABLE "wpkn_revslider_css"______________________________[ROWS:     109] [EXTRACT|REPLACE] [INST NAME: wpkn_revslider_css]
+TABLE "wpkn_revslider_layer_animations"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_revslider_layer_animations]
+TABLE "wpkn_revslider_navigations"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_revslider_navigations]
+TABLE "wpkn_revslider_sliders"__________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpkn_revslider_sliders]
+TABLE "wpkn_revslider_slides"___________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wpkn_revslider_slides]
+TABLE "wpkn_revslider_static_slides"____________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpkn_revslider_static_slides]
+TABLE "wpkn_smush_dir_images"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_smush_dir_images]
+TABLE "wpkn_subscribe"__________________________________[ROWS:     378] [EXTRACT|REPLACE] [INST NAME: wpkn_subscribe]
+TABLE "wpkn_swis_critical_css"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_swis_critical_css]
+TABLE "wpkn_swis_queue"_________________________________[ROWS:     224] [EXTRACT|REPLACE] [INST NAME: wpkn_swis_queue]
+TABLE "wpkn_termmeta"___________________________________[ROWS:     246] [EXTRACT|REPLACE] [INST NAME: wpkn_termmeta]
+TABLE "wpkn_terms"______________________________________[ROWS:     103] [EXTRACT|REPLACE] [INST NAME: wpkn_terms]
+TABLE "wpkn_term_relationships"_________________________[ROWS:     955] [EXTRACT|REPLACE] [INST NAME: wpkn_term_relationships]
+TABLE "wpkn_term_taxonomy"______________________________[ROWS:     103] [EXTRACT|REPLACE] [INST NAME: wpkn_term_taxonomy]
+TABLE "wpkn_ticket_chats"_______________________________[ROWS:    1268] [EXTRACT|REPLACE] [INST NAME: wpkn_ticket_chats]
+TABLE "wpkn_tm_taskmeta"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_tm_taskmeta]
+TABLE "wpkn_tm_tasks"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_tm_tasks]
+TABLE "wpkn_usermeta"___________________________________[ROWS:   10031] [EXTRACT|REPLACE] [INST NAME: wpkn_usermeta]
+TABLE "wpkn_users"______________________________________[ROWS:     461] [EXTRACT|REPLACE] [INST NAME: wpkn_users]
+TABLE "wpkn_wallet_minus"_______________________________[ROWS:      38] [EXTRACT|REPLACE] [INST NAME: wpkn_wallet_minus]
+TABLE "wpkn_wcmp_cust_answers"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wcmp_cust_answers]
+TABLE "wpkn_wcmp_cust_questions"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wcmp_cust_questions]
+TABLE "wpkn_wcmp_products_map"__________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wpkn_wcmp_products_map]
+TABLE "wpkn_wcmp_shipping_zone_locations"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wcmp_shipping_zone_locations]
+TABLE "wpkn_wcmp_shipping_zone_methods"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wcmp_shipping_zone_methods]
+TABLE "wpkn_wcmp_vendor_ledger"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wcmp_vendor_ledger]
+TABLE "wpkn_wcmp_vendor_orders"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wcmp_vendor_orders]
+TABLE "wpkn_wcmp_visitors_stats"________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpkn_wcmp_visitors_stats]
+TABLE "wpkn_wc_admin_notes"_____________________________[ROWS:     131] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_admin_notes]
+TABLE "wpkn_wc_admin_note_actions"______________________[ROWS:     167] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_admin_note_actions]
+TABLE "wpkn_wc_category_lookup"_________________________[ROWS:      64] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_category_lookup]
+TABLE "wpkn_wc_customer_lookup"_________________________[ROWS:     389] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_customer_lookup]
+TABLE "wpkn_wc_download_log"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_download_log]
+TABLE "wpkn_wc_orders"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_orders]
+TABLE "wpkn_wc_orders_meta"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_orders_meta]
+TABLE "wpkn_wc_order_addresses"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_order_addresses]
+TABLE "wpkn_wc_order_coupon_lookup"_____________________[ROWS:     186] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_order_coupon_lookup]
+TABLE "wpkn_wc_order_operational_data"__________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_order_operational_data]
+TABLE "wpkn_wc_order_product_lookup"____________________[ROWS:    2127] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_order_product_lookup]
+TABLE "wpkn_wc_order_stats"_____________________________[ROWS:    2059] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_order_stats]
+TABLE "wpkn_wc_order_tax_lookup"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_order_tax_lookup]
+TABLE "wpkn_wc_product_attributes_lookup"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_product_attributes_lookup]
+TABLE "wpkn_wc_product_download_directories"____________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_product_download_directories]
+TABLE "wpkn_wc_product_meta_lookup"_____________________[ROWS:     364] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_product_meta_lookup]
+TABLE "wpkn_wc_rate_limits"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_rate_limits]
+TABLE "wpkn_wc_reserved_stock"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_reserved_stock]
+TABLE "wpkn_wc_tax_rate_classes"________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_tax_rate_classes]
+TABLE "wpkn_wc_webhooks"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wc_webhooks]
+TABLE "wpkn_wfblockediplog"_____________________________[ROWS:     169] [EXTRACT|REPLACE] [INST NAME: wpkn_wfblockediplog]
+TABLE "wpkn_wfblocks7"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wfblocks7]
+TABLE "wpkn_wfconfig"___________________________________[ROWS:     276] [EXTRACT|REPLACE] [INST NAME: wpkn_wfconfig]
+TABLE "wpkn_wfcrawlers"_________________________________[ROWS:      36] [EXTRACT|REPLACE] [INST NAME: wpkn_wfcrawlers]
+TABLE "wpkn_wffilechanges"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wffilechanges]
+TABLE "wpkn_wffilemods"_________________________________[ROWS:   20625] [EXTRACT|REPLACE] [INST NAME: wpkn_wffilemods]
+TABLE "wpkn_wfhits"_____________________________________[ROWS:    1763] [EXTRACT|REPLACE] [INST NAME: wpkn_wfhits]
+TABLE "wpkn_wfhoover"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wfhoover]
+TABLE "wpkn_wfissues"___________________________________[ROWS:      15] [EXTRACT|REPLACE] [INST NAME: wpkn_wfissues]
+TABLE "wpkn_wfknownfilelist"____________________________[ROWS:   20625] [EXTRACT|REPLACE] [INST NAME: wpkn_wfknownfilelist]
+TABLE "wpkn_wflivetraffichuman"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wflivetraffichuman]
+TABLE "wpkn_wflocs"_____________________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wpkn_wflocs]
+TABLE "wpkn_wflogins"___________________________________[ROWS:    2006] [EXTRACT|REPLACE] [INST NAME: wpkn_wflogins]
+TABLE "wpkn_wfls_2fa_secrets"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wfls_2fa_secrets]
+TABLE "wpkn_wfls_role_counts"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wfls_role_counts]
+TABLE "wpkn_wfls_settings"______________________________[ROWS:      30] [EXTRACT|REPLACE] [INST NAME: wpkn_wfls_settings]
+TABLE "wpkn_wfnotifications"____________________________[ROWS:      47] [EXTRACT|REPLACE] [INST NAME: wpkn_wfnotifications]
+TABLE "wpkn_wfpendingissues"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wfpendingissues]
+TABLE "wpkn_wfreversecache"_____________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wpkn_wfreversecache]
+TABLE "wpkn_wfsnipcache"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wfsnipcache]
+TABLE "wpkn_wfstatus"___________________________________[ROWS:     940] [EXTRACT|REPLACE] [INST NAME: wpkn_wfstatus]
+TABLE "wpkn_wftrafficrates"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wftrafficrates]
+TABLE "wpkn_woocommerce_api_keys"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_api_keys]
+TABLE "wpkn_woocommerce_attribute_taxonomies"___________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_attribute_taxonomies]
+TABLE "wpkn_woocommerce_downloadable_product_permissions"[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_downloadable_product_permissions]
+TABLE "wpkn_woocommerce_log"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_log]
+TABLE "wpkn_woocommerce_order_itemmeta"_________________[ROWS:   23423] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_order_itemmeta]
+TABLE "wpkn_woocommerce_order_items"____________________[ROWS:    2540] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_order_items]
+TABLE "wpkn_woocommerce_payment_tokenmeta"______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_payment_tokenmeta]
+TABLE "wpkn_woocommerce_payment_tokens"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_payment_tokens]
+TABLE "wpkn_woocommerce_sessions"_______________________[ROWS:      17] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_sessions]
+TABLE "wpkn_woocommerce_shipping_zones"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_shipping_zones]
+TABLE "wpkn_woocommerce_shipping_zone_locations"________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_shipping_zone_locations]
+TABLE "wpkn_woocommerce_shipping_zone_methods"__________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_shipping_zone_methods]
+TABLE "wpkn_woocommerce_tax_rates"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_tax_rates]
+TABLE "wpkn_woocommerce_tax_rate_locations"_____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_woocommerce_tax_rate_locations]
+TABLE "wpkn_woo_wallet_transactions"____________________[ROWS:    1140] [EXTRACT|REPLACE] [INST NAME: wpkn_woo_wallet_transactions]
+TABLE "wpkn_woo_wallet_transaction_meta"________________[ROWS:     646] [EXTRACT|REPLACE] [INST NAME: wpkn_woo_wallet_transaction_meta]
+TABLE "wpkn_wow_skype_free"_____________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpkn_wow_skype_free]
+TABLE "wpkn_wpfm_backup"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wpfm_backup]
+TABLE "wpkn_wpforms_tasks_meta"_________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wpkn_wpforms_tasks_meta]
+TABLE "wpkn_wpmailsmtp_debug_events"____________________[ROWS:     158] [EXTRACT|REPLACE] [INST NAME: wpkn_wpmailsmtp_debug_events]
+TABLE "wpkn_wpmailsmtp_tasks_meta"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wpmailsmtp_tasks_meta]
+TABLE "wpkn_wp_phpmyadmin_extension__errors_log"________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wp_phpmyadmin_extension__errors_log]
+TABLE "wpkn_wt_iew_action_history"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wt_iew_action_history]
+TABLE "wpkn_wt_iew_cron"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wt_iew_cron]
+TABLE "wpkn_wt_iew_ftp"_________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wt_iew_ftp]
+TABLE "wpkn_wt_iew_mapping_template"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_wt_iew_mapping_template]
+TABLE "wpkn_yith_wcwl"__________________________________[ROWS:     152] [EXTRACT|REPLACE] [INST NAME: wpkn_yith_wcwl]
+TABLE "wpkn_yith_wcwl_lists"____________________________[ROWS:     445] [EXTRACT|REPLACE] [INST NAME: wpkn_yith_wcwl_lists]
+TABLE "wpkn_yoast_indexable"____________________________[ROWS:     681] [EXTRACT|REPLACE] [INST NAME: wpkn_yoast_indexable]
+TABLE "wpkn_yoast_indexable_hierarchy"__________________[ROWS:     677] [EXTRACT|REPLACE] [INST NAME: wpkn_yoast_indexable_hierarchy]
+TABLE "wpkn_yoast_migrations"___________________________[ROWS:      24] [EXTRACT|REPLACE] [INST NAME: wpkn_yoast_migrations]
+TABLE "wpkn_yoast_primary_term"_________________________[ROWS:      57] [EXTRACT|REPLACE] [INST NAME: wpkn_yoast_primary_term]
+TABLE "wpkn_yoast_seo_links"____________________________[ROWS:     272] [EXTRACT|REPLACE] [INST NAME: wpkn_yoast_seo_links]
+TABLE "wpkn_yoast_seo_meta"_____________________________[ROWS:   13263] [EXTRACT|REPLACE] [INST NAME: wpkn_yoast_seo_meta]
+TABLE "wpkn_zoo_cw_global_config"_______________________[ROWS:      18] [EXTRACT|REPLACE] [INST NAME: wpkn_zoo_cw_global_config]
+TABLE "wpkn_zoo_cw_product_attribute_swatch_type"_______[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpkn_zoo_cw_product_attribute_swatch_type]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.6.16 -- Build Server: 10.6.16
+FILE SIZE:	dup-database__[HASH].sql (80.55MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+DROP TABLE cerber_acl
+DROP TABLE cerber_blocks
+DROP TABLE cerber_countries
+DROP TABLE cerber_lab
+DROP TABLE cerber_lab_ip
+DROP TABLE cerber_lab_net
+DROP TABLE cerber_log
+DROP TABLE cerber_qmem
+DROP TABLE cerber_traffic
+DROP TABLE wpkn_accounts
+DROP TABLE wpkn_actionscheduler_actions
+DROP TABLE wpkn_actionscheduler_claims
+DROP TABLE wpkn_actionscheduler_groups
+DROP TABLE wpkn_actionscheduler_logs
+DROP TABLE wpkn_cerber_files
+DROP TABLE wpkn_cerber_sets
+DROP TABLE wpkn_cerber_uss
+DROP TABLE wpkn_commentmeta
+DROP TABLE wpkn_comments
+DROP TABLE wpkn_dlm_downloads
+DROP TABLE wpkn_dlm_order
+DROP TABLE wpkn_dlm_order_customer
+DROP TABLE wpkn_dlm_order_item
+DROP TABLE wpkn_dlm_order_transaction
+DROP TABLE wpkn_dlm_reports_log
+DROP TABLE wpkn_dlm_session
+DROP TABLE wpkn_download_log
+DROP TABLE wpkn_duplicator_pro_entities
+DROP TABLE wpkn_duplicator_pro_packages
+DROP TABLE wpkn_easywpsmtp_debug_events
+DROP TABLE wpkn_easywpsmtp_tasks_meta
+DROP TABLE wpkn_failed_jobs
+DROP TABLE wpkn_hfcm_scripts
+DROP TABLE wpkn_imagify_files
+DROP TABLE wpkn_imagify_folders
+DROP TABLE wpkn_links
+DROP TABLE wpkn_mailchimp_carts
+DROP TABLE wpkn_mailchimp_jobs
+DROP TABLE wpkn_mollie_pending_payment
+DROP TABLE wpkn_mvx_cust_answers
+DROP TABLE wpkn_mvx_cust_questions
+DROP TABLE wpkn_mvx_products_map
+DROP TABLE wpkn_mvx_shipping_zone_locations
+DROP TABLE wpkn_mvx_shipping_zone_methods
+DROP TABLE wpkn_mvx_vendor_ledger
+DROP TABLE wpkn_mvx_vendor_orders
+DROP TABLE wpkn_mvx_visitors_stats
+DROP TABLE wpkn_options
+DROP TABLE wpkn_pmxe_exports
+DROP TABLE wpkn_pmxe_google_cats
+DROP TABLE wpkn_pmxe_posts
+DROP TABLE wpkn_pmxe_templates
+DROP TABLE wpkn_post_smtp_logmeta
+DROP TABLE wpkn_post_smtp_logs
+DROP TABLE wpkn_postmeta
+DROP TABLE wpkn_posts
+DROP TABLE wpkn_queue
+DROP TABLE wpkn_rank_math_404_logs
+DROP TABLE wpkn_rank_math_analytics_objects
+DROP TABLE wpkn_rank_math_internal_links
+DROP TABLE wpkn_rank_math_internal_meta
+DROP TABLE wpkn_rank_math_redirections
+DROP TABLE wpkn_rank_math_redirections_cache
+DROP TABLE wpkn_revslider_css
+DROP TABLE wpkn_revslider_layer_animations
+DROP TABLE wpkn_revslider_navigations
+DROP TABLE wpkn_revslider_sliders
+DROP TABLE wpkn_revslider_slides
+DROP TABLE wpkn_revslider_static_slides
+DROP TABLE wpkn_smush_dir_images
+DROP TABLE wpkn_subscribe
+DROP TABLE wpkn_swis_critical_css
+DROP TABLE wpkn_swis_queue
+DROP TABLE wpkn_term_relationships
+DROP TABLE wpkn_term_taxonomy
+DROP TABLE wpkn_termmeta
+DROP TABLE wpkn_terms
+DROP TABLE wpkn_ticket_chats
+DROP TABLE wpkn_tm_taskmeta
+DROP TABLE wpkn_tm_tasks
+DROP TABLE wpkn_usermeta
+DROP TABLE wpkn_users
+DROP TABLE wpkn_wallet_minus
+DROP TABLE wpkn_wc_admin_note_actions
+DROP TABLE wpkn_wc_admin_notes
+DROP TABLE wpkn_wc_category_lookup
+DROP TABLE wpkn_wc_customer_lookup
+DROP TABLE wpkn_wc_download_log
+DROP TABLE wpkn_wc_order_addresses
+DROP TABLE wpkn_wc_order_coupon_lookup
+DROP TABLE wpkn_wc_order_operational_data
+DROP TABLE wpkn_wc_order_product_lookup
+DROP TABLE wpkn_wc_order_stats
+DROP TABLE wpkn_wc_order_tax_lookup
+DROP TABLE wpkn_wc_orders
+DROP TABLE wpkn_wc_orders_meta
+DROP TABLE wpkn_wc_product_attributes_lookup
+DROP TABLE wpkn_wc_product_download_directories
+DROP TABLE wpkn_wc_product_meta_lookup
+DROP TABLE wpkn_wc_rate_limits
+DROP TABLE wpkn_wc_reserved_stock
+DROP TABLE wpkn_wc_tax_rate_classes
+DROP TABLE wpkn_wc_webhooks
+DROP TABLE wpkn_wcmp_cust_answers
+DROP TABLE wpkn_wcmp_cust_questions
+DROP TABLE wpkn_wcmp_products_map
+DROP TABLE wpkn_wcmp_shipping_zone_locations
+DROP TABLE wpkn_wcmp_shipping_zone_methods
+DROP TABLE wpkn_wcmp_vendor_ledger
+DROP TABLE wpkn_wcmp_vendor_orders
+DROP TABLE wpkn_wcmp_visitors_stats
+DROP TABLE wpkn_wfblockediplog
+DROP TABLE wpkn_wfblocks7
+DROP TABLE wpkn_wfconfig
+DROP TABLE wpkn_wfcrawlers
+DROP TABLE wpkn_wffilechanges
+DROP TABLE wpkn_wffilemods
+DROP TABLE wpkn_wfhits
+DROP TABLE wpkn_wfhoover
+DROP TABLE wpkn_wfissues
+DROP TABLE wpkn_wfknownfilelist
+DROP TABLE wpkn_wflivetraffichuman
+DROP TABLE wpkn_wflocs
+DROP TABLE wpkn_wflogins
+DROP TABLE wpkn_wfls_2fa_secrets
+DROP TABLE wpkn_wfls_role_counts
+DROP TABLE wpkn_wfls_settings
+DROP TABLE wpkn_wfnotifications
+DROP TABLE wpkn_wfpendingissues
+DROP TABLE wpkn_wfreversecache
+DROP TABLE wpkn_wfsnipcache
+DROP TABLE wpkn_wfstatus
+DROP TABLE wpkn_wftrafficrates
+DROP TABLE wpkn_woo_wallet_transaction_meta
+DROP TABLE wpkn_woo_wallet_transactions
+DROP TABLE wpkn_woocommerce_api_keys
+DROP TABLE wpkn_woocommerce_attribute_taxonomies
+DROP TABLE wpkn_woocommerce_downloadable_product_permissions
+DROP TABLE wpkn_woocommerce_log
+DROP TABLE wpkn_woocommerce_order_itemmeta
+DROP TABLE wpkn_woocommerce_order_items
+DROP TABLE wpkn_woocommerce_payment_tokenmeta
+DROP TABLE wpkn_woocommerce_payment_tokens
+DROP TABLE wpkn_woocommerce_sessions
+DROP TABLE wpkn_woocommerce_shipping_zone_locations
+DROP TABLE wpkn_woocommerce_shipping_zone_methods
+DROP TABLE wpkn_woocommerce_shipping_zones
+DROP TABLE wpkn_woocommerce_tax_rate_locations
+DROP TABLE wpkn_woocommerce_tax_rates
+DROP TABLE wpkn_wow_skype_free
+DROP TABLE wpkn_wp_phpmyadmin_extension__errors_log
+DROP TABLE wpkn_wpfm_backup
+DROP TABLE wpkn_wpforms_tasks_meta
+DROP TABLE wpkn_wpmailsmtp_debug_events
+DROP TABLE wpkn_wpmailsmtp_tasks_meta
+DROP TABLE wpkn_wt_iew_action_history
+DROP TABLE wpkn_wt_iew_cron
+DROP TABLE wpkn_wt_iew_ftp
+DROP TABLE wpkn_wt_iew_mapping_template
+DROP TABLE wpkn_yith_wcwl
+DROP TABLE wpkn_yith_wcwl_lists
+DROP TABLE wpkn_yoast_indexable
+DROP TABLE wpkn_yoast_indexable_hierarchy
+DROP TABLE wpkn_yoast_migrations
+DROP TABLE wpkn_yoast_primary_term
+DROP TABLE wpkn_yoast_seo_links
+DROP TABLE wpkn_yoast_seo_meta
+DROP TABLE wpkn_zoo_cw_global_config
+DROP TABLE wpkn_zoo_cw_product_attribute_swatch_type
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`accountsseller_pvamarkets`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 174811
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 25344525
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 47359935
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 52245456
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 66592360
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 68346193
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 69180727
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 80030282
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	169
+RENAMED TABLES:	0
+QUERIES RAN:	886
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "cerber_acl"______________________________________[ROWS:     1]
+TABLE "cerber_blocks"___________________________________[ROWS:     0]
+TABLE "cerber_countries"________________________________[ROWS:     0]
+TABLE "cerber_lab"______________________________________[ROWS:     0]
+TABLE "cerber_lab_ip"___________________________________[ROWS:     0]
+TABLE "cerber_lab_net"__________________________________[ROWS:     0]
+TABLE "cerber_log"______________________________________[ROWS:  2774]
+TABLE "cerber_qmem"_____________________________________[ROWS:     0]
+TABLE "cerber_traffic"__________________________________[ROWS:  2710]
+TABLE "wpkn_accounts"___________________________________[ROWS:117700]
+TABLE "wpkn_actionscheduler_actions"____________________[ROWS:   411]
+TABLE "wpkn_actionscheduler_claims"_____________________[ROWS:     1]
+TABLE "wpkn_actionscheduler_groups"_____________________[ROWS:     9]
+TABLE "wpkn_actionscheduler_logs"_______________________[ROWS:  1233]
+TABLE "wpkn_cerber_files"_______________________________[ROWS:     0]
+TABLE "wpkn_cerber_sets"________________________________[ROWS:  1776]
+TABLE "wpkn_cerber_uss"_________________________________[ROWS:  2208]
+TABLE "wpkn_commentmeta"________________________________[ROWS:   124]
+TABLE "wpkn_comments"___________________________________[ROWS:  3069]
+TABLE "wpkn_dlm_downloads"______________________________[ROWS:     3]
+TABLE "wpkn_dlm_order"__________________________________[ROWS:     0]
+TABLE "wpkn_dlm_order_customer"_________________________[ROWS:     0]
+TABLE "wpkn_dlm_order_item"_____________________________[ROWS:     0]
+TABLE "wpkn_dlm_order_transaction"______________________[ROWS:     0]
+TABLE "wpkn_dlm_reports_log"____________________________[ROWS:     1]
+TABLE "wpkn_dlm_session"________________________________[ROWS:     0]
+TABLE "wpkn_download_log"_______________________________[ROWS:     3]
+TABLE "wpkn_duplicator_pro_entities"____________________[ROWS:     5]
+TABLE "wpkn_duplicator_pro_packages"____________________[ROWS:     1]
+TABLE "wpkn_easywpsmtp_debug_events"____________________[ROWS:     4]
+TABLE "wpkn_easywpsmtp_tasks_meta"______________________[ROWS:     0]
+TABLE "wpkn_failed_jobs"________________________________[ROWS:     0]
+TABLE "wpkn_hfcm_scripts"_______________________________[ROWS:     1]
+TABLE "wpkn_imagify_files"______________________________[ROWS:     0]
+TABLE "wpkn_imagify_folders"____________________________[ROWS:     0]
+TABLE "wpkn_links"______________________________________[ROWS:     0]
+TABLE "wpkn_mailchimp_carts"____________________________[ROWS:     0]
+TABLE "wpkn_mailchimp_jobs"_____________________________[ROWS:     0]
+TABLE "wpkn_mollie_pending_payment"_____________________[ROWS:     0]
+TABLE "wpkn_mvx_cust_answers"___________________________[ROWS:     0]
+TABLE "wpkn_mvx_cust_questions"_________________________[ROWS:     0]
+TABLE "wpkn_mvx_products_map"___________________________[ROWS:     0]
+TABLE "wpkn_mvx_shipping_zone_locations"________________[ROWS:     0]
+TABLE "wpkn_mvx_shipping_zone_methods"__________________[ROWS:     0]
+TABLE "wpkn_mvx_vendor_ledger"__________________________[ROWS:     0]
+TABLE "wpkn_mvx_vendor_orders"__________________________[ROWS:     0]
+TABLE "wpkn_mvx_visitors_stats"_________________________[ROWS:     0]
+TABLE "wpkn_options"____________________________________[ROWS:   848]
+TABLE "wpkn_pmxe_exports"_______________________________[ROWS:     1]
+TABLE "wpkn_pmxe_google_cats"___________________________[ROWS:  5371]
+TABLE "wpkn_pmxe_posts"_________________________________[ROWS:  2037]
+TABLE "wpkn_pmxe_templates"_____________________________[ROWS:     0]
+TABLE "wpkn_post_smtp_logmeta"__________________________[ROWS:     0]
+TABLE "wpkn_post_smtp_logs"_____________________________[ROWS:     5]
+TABLE "wpkn_postmeta"___________________________________[ROWS: 82664]
+TABLE "wpkn_posts"______________________________________[ROWS:  3661]
+TABLE "wpkn_queue"______________________________________[ROWS:     0]
+TABLE "wpkn_rank_math_404_logs"_________________________[ROWS:    29]
+TABLE "wpkn_rank_math_analytics_objects"________________[ROWS:   163]
+TABLE "wpkn_rank_math_internal_links"___________________[ROWS:   344]
+TABLE "wpkn_rank_math_internal_meta"____________________[ROWS:   726]
+TABLE "wpkn_rank_math_redirections"_____________________[ROWS:     0]
+TABLE "wpkn_rank_math_redirections_cache"_______________[ROWS:     0]
+TABLE "wpkn_revslider_css"______________________________[ROWS:   109]
+TABLE "wpkn_revslider_layer_animations"_________________[ROWS:     0]
+TABLE "wpkn_revslider_navigations"______________________[ROWS:     0]
+TABLE "wpkn_revslider_sliders"__________________________[ROWS:     1]
+TABLE "wpkn_revslider_slides"___________________________[ROWS:     4]
+TABLE "wpkn_revslider_static_slides"____________________[ROWS:     1]
+TABLE "wpkn_smush_dir_images"___________________________[ROWS:     0]
+TABLE "wpkn_subscribe"__________________________________[ROWS:   378]
+TABLE "wpkn_swis_critical_css"__________________________[ROWS:     0]
+TABLE "wpkn_swis_queue"_________________________________[ROWS:   224]
+TABLE "wpkn_term_relationships"_________________________[ROWS:   955]
+TABLE "wpkn_term_taxonomy"______________________________[ROWS:   103]
+TABLE "wpkn_termmeta"___________________________________[ROWS:   246]
+TABLE "wpkn_terms"______________________________________[ROWS:   103]
+TABLE "wpkn_ticket_chats"_______________________________[ROWS:  1268]
+TABLE "wpkn_tm_taskmeta"________________________________[ROWS:     0]
+TABLE "wpkn_tm_tasks"___________________________________[ROWS:     0]
+TABLE "wpkn_usermeta"___________________________________[ROWS: 10031]
+TABLE "wpkn_users"______________________________________[ROWS:   461]
+TABLE "wpkn_wallet_minus"_______________________________[ROWS:    38]
+TABLE "wpkn_wc_admin_note_actions"______________________[ROWS:   167]
+TABLE "wpkn_wc_admin_notes"_____________________________[ROWS:   131]
+TABLE "wpkn_wc_category_lookup"_________________________[ROWS:    64]
+TABLE "wpkn_wc_customer_lookup"_________________________[ROWS:   389]
+TABLE "wpkn_wc_download_log"____________________________[ROWS:     0]
+TABLE "wpkn_wc_order_addresses"_________________________[ROWS:     0]
+TABLE "wpkn_wc_order_coupon_lookup"_____________________[ROWS:   186]
+TABLE "wpkn_wc_order_operational_data"__________________[ROWS:     0]
+TABLE "wpkn_wc_order_product_lookup"____________________[ROWS:  2127]
+TABLE "wpkn_wc_order_stats"_____________________________[ROWS:  2059]
+TABLE "wpkn_wc_order_tax_lookup"________________________[ROWS:     0]
+TABLE "wpkn_wc_orders"__________________________________[ROWS:     0]
+TABLE "wpkn_wc_orders_meta"_____________________________[ROWS:     0]
+TABLE "wpkn_wc_product_attributes_lookup"_______________[ROWS:     0]
+TABLE "wpkn_wc_product_download_directories"____________[ROWS:     2]
+TABLE "wpkn_wc_product_meta_lookup"_____________________[ROWS:   364]
+TABLE "wpkn_wc_rate_limits"_____________________________[ROWS:     0]
+TABLE "wpkn_wc_reserved_stock"__________________________[ROWS:     0]
+TABLE "wpkn_wc_tax_rate_classes"________________________[ROWS:     2]
+TABLE "wpkn_wc_webhooks"________________________________[ROWS:     0]
+TABLE "wpkn_wcmp_cust_answers"__________________________[ROWS:     0]
+TABLE "wpkn_wcmp_cust_questions"________________________[ROWS:     0]
+TABLE "wpkn_wcmp_products_map"__________________________[ROWS:     2]
+TABLE "wpkn_wcmp_shipping_zone_locations"_______________[ROWS:     0]
+TABLE "wpkn_wcmp_shipping_zone_methods"_________________[ROWS:     0]
+TABLE "wpkn_wcmp_vendor_ledger"_________________________[ROWS:     0]
+TABLE "wpkn_wcmp_vendor_orders"_________________________[ROWS:     0]
+TABLE "wpkn_wcmp_visitors_stats"________________________[ROWS:     1]
+TABLE "wpkn_wfblockediplog"_____________________________[ROWS:   169]
+TABLE "wpkn_wfblocks7"__________________________________[ROWS:     0]
+TABLE "wpkn_wfconfig"___________________________________[ROWS:   276]
+TABLE "wpkn_wfcrawlers"_________________________________[ROWS:    36]
+TABLE "wpkn_wffilechanges"______________________________[ROWS:     0]
+TABLE "wpkn_wffilemods"_________________________________[ROWS: 20625]
+TABLE "wpkn_wfhits"_____________________________________[ROWS:  1763]
+TABLE "wpkn_wfhoover"___________________________________[ROWS:     0]
+TABLE "wpkn_wfissues"___________________________________[ROWS:    15]
+TABLE "wpkn_wfknownfilelist"____________________________[ROWS: 20625]
+TABLE "wpkn_wflivetraffichuman"_________________________[ROWS:     0]
+TABLE "wpkn_wflocs"_____________________________________[ROWS:     3]
+TABLE "wpkn_wflogins"___________________________________[ROWS:  2006]
+TABLE "wpkn_wfls_2fa_secrets"___________________________[ROWS:     0]
+TABLE "wpkn_wfls_role_counts"___________________________[ROWS:     0]
+TABLE "wpkn_wfls_settings"______________________________[ROWS:    30]
+TABLE "wpkn_wfnotifications"____________________________[ROWS:    47]
+TABLE "wpkn_wfpendingissues"____________________________[ROWS:     0]
+TABLE "wpkn_wfreversecache"_____________________________[ROWS:     4]
+TABLE "wpkn_wfsnipcache"________________________________[ROWS:     0]
+TABLE "wpkn_wfstatus"___________________________________[ROWS:   940]
+TABLE "wpkn_wftrafficrates"_____________________________[ROWS:     0]
+TABLE "wpkn_woo_wallet_transaction_meta"________________[ROWS:   646]
+TABLE "wpkn_woo_wallet_transactions"____________________[ROWS:  1140]
+TABLE "wpkn_woocommerce_api_keys"_______________________[ROWS:     0]
+TABLE "wpkn_woocommerce_attribute_taxonomies"___________[ROWS:     0]
+TABLE "wpkn_woocommerce_downloadable_product_permissions"[ROWS:     0]
+TABLE "wpkn_woocommerce_log"____________________________[ROWS:     0]
+TABLE "wpkn_woocommerce_order_itemmeta"_________________[ROWS: 23423]
+TABLE "wpkn_woocommerce_order_items"____________________[ROWS:  2540]
+TABLE "wpkn_woocommerce_payment_tokenmeta"______________[ROWS:     0]
+TABLE "wpkn_woocommerce_payment_tokens"_________________[ROWS:     0]
+TABLE "wpkn_woocommerce_sessions"_______________________[ROWS:    17]
+TABLE "wpkn_woocommerce_shipping_zone_locations"________[ROWS:     0]
+TABLE "wpkn_woocommerce_shipping_zone_methods"__________[ROWS:     0]
+TABLE "wpkn_woocommerce_shipping_zones"_________________[ROWS:     0]
+TABLE "wpkn_woocommerce_tax_rate_locations"_____________[ROWS:     0]
+TABLE "wpkn_woocommerce_tax_rates"______________________[ROWS:     0]
+TABLE "wpkn_wow_skype_free"_____________________________[ROWS:     1]
+TABLE "wpkn_wp_phpmyadmin_extension__errors_log"________[ROWS:     0]
+TABLE "wpkn_wpfm_backup"________________________________[ROWS:     0]
+TABLE "wpkn_wpforms_tasks_meta"_________________________[ROWS:     2]
+TABLE "wpkn_wpmailsmtp_debug_events"____________________[ROWS:   158]
+TABLE "wpkn_wpmailsmtp_tasks_meta"______________________[ROWS:     0]
+TABLE "wpkn_wt_iew_action_history"______________________[ROWS:     0]
+TABLE "wpkn_wt_iew_cron"________________________________[ROWS:     0]
+TABLE "wpkn_wt_iew_ftp"_________________________________[ROWS:     0]
+TABLE "wpkn_wt_iew_mapping_template"____________________[ROWS:     0]
+TABLE "wpkn_yith_wcwl"__________________________________[ROWS:   152]
+TABLE "wpkn_yith_wcwl_lists"____________________________[ROWS:   445]
+TABLE "wpkn_yoast_indexable"____________________________[ROWS:   681]
+TABLE "wpkn_yoast_indexable_hierarchy"__________________[ROWS:   677]
+TABLE "wpkn_yoast_migrations"___________________________[ROWS:    24]
+TABLE "wpkn_yoast_primary_term"_________________________[ROWS:    57]
+TABLE "wpkn_yoast_seo_links"____________________________[ROWS:   272]
+TABLE "wpkn_yoast_seo_meta"_____________________________[ROWS: 13263]
+TABLE "wpkn_zoo_cw_global_config"_______________________[ROWS:    18]
+TABLE "wpkn_zoo_cw_product_attribute_swatch_type"_______[ROWS:     0]
+
+INSERT DATA RUNTIME: 101.5743 sec.
+STEP-2 COMPLETE @ 10:36:19 - RUNTIME: 101.5743 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/accountsseller/public_html REPLACE: /home/accountsseller/pvamarkets.com [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://accountsseller.com REPLACE: http://pvamarkets.com [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 10:36:19
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 9223372036854775807], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = ], [inWpConfig = ]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 512M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [wpkn_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_pro_ui_view_state","duplicator_pro_package_active","duplicator_pro_settings")
+DATABASE OPTIONS DELETED [ROWS:   153]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "cerber_acl"______________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][cerber_acl][0]
+
+EVALUATE TABLE: "cerber_blocks"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "cerber_countries"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "cerber_lab"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "cerber_lab_ip"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "cerber_lab_net"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "cerber_log"______________________________________[ROWS:  2774][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][cerber_log][0]
+	CHUNK ACTION: CURRENT [search_replace][cerber_log][1]
+	CHUNK ACTION: CURRENT [search_replace][cerber_log][2]
+
+EVALUATE TABLE: "cerber_qmem"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "cerber_traffic"__________________________________[ROWS:  2710][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][cerber_traffic][0]
+	
+STEP-3 CHUNK STOP @ 10:36:32 - RUNTIME: 12.7993 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][cerber_traffic][1]
+
+STEP-3 CHUNK STOP @ 10:36:39 - RUNTIME: 7.1044 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][cerber_traffic][2]
+
+STEP-3 CHUNK STOP @ 10:36:59 - RUNTIME: 19.3463 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+EVALUATE TABLE: "wpkn_accounts"___________________________________[ROWS:117700][PG: 118][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][1]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][2]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][3]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][4]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][5]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][6]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][7]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][8]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][9]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][10]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][11]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][12]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][13]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][14]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][15]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][16]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][17]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][18]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][19]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][20]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][21]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][22]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][23]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][24]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][25]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][26]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][27]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][28]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][29]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][30]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][31]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][32]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][33]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][34]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][35]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][36]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][37]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][38]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][39]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][40]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][41]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][42]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][43]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][44]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][45]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][46]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][47]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][48]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][49]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][50]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][51]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][52]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][53]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][54]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][55]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][56]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][57]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][58]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][59]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][60]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][61]
+	
+STEP-3 CHUNK STOP @ 10:37:05 - RUNTIME: 6.0129 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][62]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][63]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][64]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][65]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][66]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][67]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][68]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][69]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][70]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][71]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][72]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][73]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][74]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][75]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][76]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][77]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][78]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][79]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][80]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][81]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][82]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][83]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][84]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][85]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][86]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][87]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][88]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][89]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][90]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][91]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][92]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][93]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][94]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][95]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][96]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][97]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][98]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][99]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][100]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][101]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][102]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][103]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][104]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][105]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][106]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][107]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][108]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][109]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][110]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][111]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][112]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][113]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][114]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][115]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][116]
+CHUNK ACTION: CURRENT [search_replace][wpkn_accounts][117]
+
+EVALUATE TABLE: "wpkn_actionscheduler_actions"____________________[ROWS:   411][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_actionscheduler_actions][0]
+
+EVALUATE TABLE: "wpkn_actionscheduler_claims"_____________________[ROWS:     1][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_actionscheduler_groups"_____________________[ROWS:     9][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_actionscheduler_groups][0]
+
+EVALUATE TABLE: "wpkn_actionscheduler_logs"_______________________[ROWS:  1233][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_actionscheduler_logs][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_actionscheduler_logs][1]
+
+EVALUATE TABLE: "wpkn_cerber_files"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_cerber_sets"________________________________[ROWS:  1776][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_cerber_sets][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_cerber_sets][1]
+
+EVALUATE TABLE: "wpkn_cerber_uss"_________________________________[ROWS:  2208][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_cerber_uss][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_cerber_uss][1]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_cerber_uss][2]
+
+EVALUATE TABLE: "wpkn_commentmeta"________________________________[ROWS:   124][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_commentmeta][0]
+
+EVALUATE TABLE: "wpkn_comments"___________________________________[ROWS:  3069][PG:   4][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_comments][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_comments][1]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_comments][2]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_comments][3]
+
+EVALUATE TABLE: "wpkn_dlm_downloads"______________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_dlm_downloads][0]
+
+EVALUATE TABLE: "wpkn_dlm_order"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_dlm_order_customer"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_dlm_order_item"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_dlm_order_transaction"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_dlm_reports_log"____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_dlm_reports_log][0]
+
+EVALUATE TABLE: "wpkn_dlm_session"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_download_log"_______________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_download_log][0]
+
+EVALUATE TABLE: "wpkn_duplicator_pro_entities"____________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_duplicator_pro_entities][0]
+
+EVALUATE TABLE: "wpkn_duplicator_pro_packages"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_easywpsmtp_debug_events"____________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_easywpsmtp_debug_events][0]
+
+EVALUATE TABLE: "wpkn_easywpsmtp_tasks_meta"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_failed_jobs"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_hfcm_scripts"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_hfcm_scripts][0]
+
+EVALUATE TABLE: "wpkn_imagify_files"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_imagify_folders"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_links"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_mailchimp_carts"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_mailchimp_jobs"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_mollie_pending_payment"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_mvx_cust_answers"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_mvx_cust_questions"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_mvx_products_map"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_mvx_shipping_zone_locations"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_mvx_shipping_zone_methods"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_mvx_vendor_ledger"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_mvx_vendor_orders"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_mvx_visitors_stats"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_options"____________________________________[ROWS:   695][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_options][0]
+
+EVALUATE TABLE: "wpkn_pmxe_exports"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_pmxe_exports][0]
+
+EVALUATE TABLE: "wpkn_pmxe_google_cats"___________________________[ROWS:  5371][PG:   6][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_pmxe_google_cats][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_pmxe_google_cats][1]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_pmxe_google_cats][2]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_pmxe_google_cats][3]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_pmxe_google_cats][4]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_pmxe_google_cats][5]
+
+EVALUATE TABLE: "wpkn_pmxe_posts"_________________________________[ROWS:  2037][PG:   3][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_pmxe_templates"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_postmeta"___________________________________[ROWS: 82664][PG:  83][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][6]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][7]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][8]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][9]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][10]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][11]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][12]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][13]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][14]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][15]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][16]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][17]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][18]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][19]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][20]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][21]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][22]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][23]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][24]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][25]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][26]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][27]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][28]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][29]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][30]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][31]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][32]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][33]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][34]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][35]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][36]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][37]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][38]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][39]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][40]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][41]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][42]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][43]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][44]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][45]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][46]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][47]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][48]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][49]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][50]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][51]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][52]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][53]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][54]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][55]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][56]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][57]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][58]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][59]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][60]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][61]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][62]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][63]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][64]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][65]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][66]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][67]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][68]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][69]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][70]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][71]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][72]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][73]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][74]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][75]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][76]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][77]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][78]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][79]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][80]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][81]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_postmeta][82]
+
+EVALUATE TABLE: "wpkn_posts"______________________________________[ROWS:  3661][PG:   4][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_posts][0]
+	
+STEP-3 CHUNK STOP @ 10:37:16 - RUNTIME: 10.7472 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_posts][1]
+
+STEP-3 CHUNK STOP @ 10:37:24 - RUNTIME: 6.9574 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_posts][2]
+
+STEP-3 CHUNK STOP @ 10:37:32 - RUNTIME: 7.8353 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_posts][3]
+
+EVALUATE TABLE: "wpkn_post_smtp_logmeta"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_post_smtp_logs"_____________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_post_smtp_logs][0]
+
+EVALUATE TABLE: "wpkn_queue"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_rank_math_404_logs"_________________________[ROWS:    29][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_rank_math_404_logs][0]
+
+EVALUATE TABLE: "wpkn_rank_math_analytics_objects"________________[ROWS:   163][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_rank_math_analytics_objects][0]
+
+EVALUATE TABLE: "wpkn_rank_math_internal_links"___________________[ROWS:   344][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_rank_math_internal_links][0]
+	
+STEP-3 CHUNK STOP @ 10:37:39 - RUNTIME: 6.8417 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+EVALUATE TABLE: "wpkn_rank_math_internal_meta"____________________[ROWS:   726][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_rank_math_redirections"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_rank_math_redirections_cache"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_revslider_css"______________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_revslider_css][0]
+
+EVALUATE TABLE: "wpkn_revslider_layer_animations"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_revslider_navigations"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_revslider_sliders"__________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_revslider_sliders][0]
+
+EVALUATE TABLE: "wpkn_revslider_slides"___________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_revslider_slides][0]
+
+EVALUATE TABLE: "wpkn_revslider_static_slides"____________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_revslider_static_slides][0]
+
+EVALUATE TABLE: "wpkn_smush_dir_images"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_subscribe"__________________________________[ROWS:   378][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_swis_critical_css"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_swis_queue"_________________________________[ROWS:   224][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_swis_queue][0]
+
+EVALUATE TABLE: "wpkn_termmeta"___________________________________[ROWS:   246][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_termmeta][0]
+
+EVALUATE TABLE: "wpkn_terms"______________________________________[ROWS:   103][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_terms][0]
+
+EVALUATE TABLE: "wpkn_term_relationships"_________________________[ROWS:   955][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_term_taxonomy"______________________________[ROWS:   103][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_term_taxonomy][0]
+
+EVALUATE TABLE: "wpkn_ticket_chats"_______________________________[ROWS:  1268][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_ticket_chats][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_ticket_chats][1]
+
+EVALUATE TABLE: "wpkn_tm_taskmeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_tm_tasks"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_usermeta"___________________________________[ROWS: 10031][PG:  11][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_usermeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_usermeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_usermeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_usermeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_usermeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_usermeta][5]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_usermeta][6]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_usermeta][7]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_usermeta][8]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_usermeta][9]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_usermeta][10]
+
+EVALUATE TABLE: "wpkn_users"______________________________________[ROWS:   461][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_users][0]
+
+EVALUATE TABLE: "wpkn_wallet_minus"_______________________________[ROWS:    38][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wallet_minus][0]
+
+EVALUATE TABLE: "wpkn_wcmp_cust_answers"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wcmp_cust_questions"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wcmp_products_map"__________________________[ROWS:     2][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wcmp_shipping_zone_locations"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wcmp_shipping_zone_methods"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wcmp_vendor_ledger"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wcmp_vendor_orders"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wcmp_visitors_stats"________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wcmp_visitors_stats][0]
+
+EVALUATE TABLE: "wpkn_wc_admin_notes"_____________________________[ROWS:   131][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wc_admin_notes][0]
+
+EVALUATE TABLE: "wpkn_wc_admin_note_actions"______________________[ROWS:   167][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wc_admin_note_actions][0]
+
+EVALUATE TABLE: "wpkn_wc_category_lookup"_________________________[ROWS:    64][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wc_customer_lookup"_________________________[ROWS:   389][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wc_customer_lookup][0]
+
+EVALUATE TABLE: "wpkn_wc_download_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wc_orders"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wc_orders_meta"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wc_order_addresses"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wc_order_coupon_lookup"_____________________[ROWS:   186][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wc_order_operational_data"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wc_order_product_lookup"____________________[ROWS:  2127][PG:   3][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wc_order_stats"_____________________________[ROWS:  2059][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wc_order_stats][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wc_order_stats][1]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wc_order_stats][2]
+
+EVALUATE TABLE: "wpkn_wc_order_tax_lookup"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wc_product_attributes_lookup"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wc_product_download_directories"____________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wc_product_download_directories][0]
+
+EVALUATE TABLE: "wpkn_wc_product_meta_lookup"_____________________[ROWS:   364][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wc_product_meta_lookup][0]
+
+EVALUATE TABLE: "wpkn_wc_rate_limits"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wc_reserved_stock"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wc_tax_rate_classes"________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wc_tax_rate_classes][0]
+
+EVALUATE TABLE: "wpkn_wc_webhooks"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wfblockediplog"_____________________________[ROWS:   169][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wfblockediplog][0]
+
+EVALUATE TABLE: "wpkn_wfblocks7"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wfconfig"___________________________________[ROWS:   276][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wfconfig][0]
+
+EVALUATE TABLE: "wpkn_wfcrawlers"_________________________________[ROWS:    36][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wfcrawlers][0]
+
+EVALUATE TABLE: "wpkn_wffilechanges"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wffilemods"_________________________________[ROWS: 20625][PG:  21][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][0]
+	
+STEP-3 CHUNK STOP @ 10:37:51 - RUNTIME: 11.6453 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][1]
+
+STEP-3 CHUNK STOP @ 10:38:07 - RUNTIME: 16.3325 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][2]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][3]
+
+STEP-3 CHUNK STOP @ 10:38:19 - RUNTIME: 10.9954 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][4]
+
+STEP-3 CHUNK STOP @ 10:38:27 - RUNTIME: 8.4029 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][5]
+
+STEP-3 CHUNK STOP @ 10:38:36 - RUNTIME: 7.9619 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][6]
+
+STEP-3 CHUNK STOP @ 10:38:43 - RUNTIME: 6.7473 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][7]
+
+STEP-3 CHUNK STOP @ 10:38:51 - RUNTIME: 8.4935 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][8]
+
+STEP-3 CHUNK STOP @ 10:39:07 - RUNTIME: 15.4645 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][9]
+
+STEP-3 CHUNK STOP @ 10:39:18 - RUNTIME: 10.7320 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][10]
+
+STEP-3 CHUNK STOP @ 10:39:28 - RUNTIME: 9.0500 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][11]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][12]
+
+STEP-3 CHUNK STOP @ 10:39:35 - RUNTIME: 7.0605 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][13]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][14]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][15]
+
+STEP-3 CHUNK STOP @ 10:39:42 - RUNTIME: 6.5542 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][16]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][17]
+
+STEP-3 CHUNK STOP @ 10:39:48 - RUNTIME: 5.6561 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][18]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][19]
+
+STEP-3 CHUNK STOP @ 10:40:05 - RUNTIME: 16.9785 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wffilemods][20]
+
+STEP-3 CHUNK STOP @ 10:40:11 - RUNTIME: 5.8762 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+EVALUATE TABLE: "wpkn_wfhits"_____________________________________[ROWS:  1763][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wfhits][0]
+	
+STEP-3 CHUNK STOP @ 10:40:18 - RUNTIME: 6.6983 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfhits][1]
+
+STEP-3 CHUNK STOP @ 10:40:24 - RUNTIME: 5.5137 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+EVALUATE TABLE: "wpkn_wfhoover"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wfissues"___________________________________[ROWS:    15][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wfissues][0]
+
+EVALUATE TABLE: "wpkn_wfknownfilelist"____________________________[ROWS: 20625][PG:  21][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][0]
+	
+STEP-3 CHUNK STOP @ 10:40:32 - RUNTIME: 7.4191 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][1]
+
+STEP-3 CHUNK STOP @ 10:40:42 - RUNTIME: 10.2507 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][2]
+
+STEP-3 CHUNK STOP @ 10:40:51 - RUNTIME: 8.5887 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][3]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][4]
+
+STEP-3 CHUNK STOP @ 10:41:00 - RUNTIME: 8.7776 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][5]
+
+STEP-3 CHUNK STOP @ 10:41:07 - RUNTIME: 6.6821 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][6]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][7]
+
+STEP-3 CHUNK STOP @ 10:41:18 - RUNTIME: 10.6983 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][8]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][9]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][10]
+
+STEP-3 CHUNK STOP @ 10:41:27 - RUNTIME: 8.3880 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][11]
+
+STEP-3 CHUNK STOP @ 10:41:33 - RUNTIME: 5.8609 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][12]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][13]
+
+STEP-3 CHUNK STOP @ 10:41:47 - RUNTIME: 13.5876 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][14]
+
+STEP-3 CHUNK STOP @ 10:41:57 - RUNTIME: 9.7668 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][15]
+
+STEP-3 CHUNK STOP @ 10:42:09 - RUNTIME: 11.2157 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][16]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][17]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][18]
+
+STEP-3 CHUNK STOP @ 10:42:15 - RUNTIME: 6.2254 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][19]
+CHUNK ACTION: CURRENT [search_replace][wpkn_wfknownfilelist][20]
+
+EVALUATE TABLE: "wpkn_wflivetraffichuman"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wflocs"_____________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wflocs][0]
+
+EVALUATE TABLE: "wpkn_wflogins"___________________________________[ROWS:  2006][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wflogins][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wflogins][1]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wflogins][2]
+
+EVALUATE TABLE: "wpkn_wfls_2fa_secrets"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wfls_role_counts"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wfls_settings"______________________________[ROWS:    30][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wfls_settings][0]
+
+EVALUATE TABLE: "wpkn_wfnotifications"____________________________[ROWS:    47][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wfnotifications][0]
+
+EVALUATE TABLE: "wpkn_wfpendingissues"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wfreversecache"_____________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wfreversecache][0]
+
+EVALUATE TABLE: "wpkn_wfsnipcache"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wfstatus"___________________________________[ROWS:   940][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wfstatus][0]
+
+EVALUATE TABLE: "wpkn_wftrafficrates"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_woocommerce_api_keys"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_woocommerce_attribute_taxonomies"___________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_woocommerce_downloadable_product_permissions"[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_woocommerce_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_woocommerce_order_itemmeta"_________________[ROWS: 23423][PG:  24][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][6]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][7]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][8]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][9]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][10]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][11]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][12]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][13]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][14]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][15]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][16]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][17]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][18]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][19]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][20]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][21]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][22]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_itemmeta][23]
+
+EVALUATE TABLE: "wpkn_woocommerce_order_items"____________________[ROWS:  2540][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_items][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_items][1]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_order_items][2]
+
+EVALUATE TABLE: "wpkn_woocommerce_payment_tokenmeta"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_woocommerce_payment_tokens"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_woocommerce_sessions"_______________________[ROWS:    17][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woocommerce_sessions][0]
+
+EVALUATE TABLE: "wpkn_woocommerce_shipping_zones"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_woocommerce_shipping_zone_locations"________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_woocommerce_shipping_zone_methods"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_woocommerce_tax_rates"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_woocommerce_tax_rate_locations"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_woo_wallet_transactions"____________________[ROWS:  1140][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woo_wallet_transactions][0]
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woo_wallet_transactions][1]
+
+EVALUATE TABLE: "wpkn_woo_wallet_transaction_meta"________________[ROWS:   646][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_woo_wallet_transaction_meta][0]
+
+EVALUATE TABLE: "wpkn_wow_skype_free"_____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wow_skype_free][0]
+
+EVALUATE TABLE: "wpkn_wpfm_backup"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wpforms_tasks_meta"_________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wpforms_tasks_meta][0]
+
+EVALUATE TABLE: "wpkn_wpmailsmtp_debug_events"____________________[ROWS:   158][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_wpmailsmtp_debug_events][0]
+
+EVALUATE TABLE: "wpkn_wpmailsmtp_tasks_meta"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wp_phpmyadmin_extension__errors_log"________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wt_iew_action_history"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wt_iew_cron"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wt_iew_ftp"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_wt_iew_mapping_template"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_yith_wcwl"__________________________________[ROWS:   152][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_yith_wcwl][0]
+
+EVALUATE TABLE: "wpkn_yith_wcwl_lists"____________________________[ROWS:   445][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_yith_wcwl_lists][0]
+
+EVALUATE TABLE: "wpkn_yoast_indexable"____________________________[ROWS:   681][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_yoast_indexable][0]
+	
+STEP-3 CHUNK STOP @ 10:42:21 - RUNTIME: 5.8880 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+EVALUATE TABLE: "wpkn_yoast_indexable_hierarchy"__________________[ROWS:   677][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_yoast_migrations"___________________________[ROWS:    24][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_yoast_migrations][0]
+
+EVALUATE TABLE: "wpkn_yoast_primary_term"_________________________[ROWS:    57][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_yoast_primary_term][0]
+
+EVALUATE TABLE: "wpkn_yoast_seo_links"____________________________[ROWS:   272][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_yoast_seo_links][0]
+
+EVALUATE TABLE: "wpkn_yoast_seo_meta"_____________________________[ROWS: 13263][PG:  14][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpkn_zoo_cw_global_config"_______________________[ROWS:    18][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/accountsseller/public_html" ================> "/home/accountsseller/pvamarkets.com"
+	SEARCH[urlnd]  2:"https://accountsseller.com" ======================> "http://pvamarkets.com"
+	CHUNK ACTION: CURRENT [search_replace][wpkn_zoo_cw_global_config][0]
+
+EVALUATE TABLE: "wpkn_zoo_cw_product_attribute_swatch_type"_______[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:169 	|	 Rows:316784 	|	 Cells:3319263 
+UPDATED:	Tables:30 	|	 Rows:51054 	|	 Cells:53155 
+ERRORS:		0 
+RUNTIME:	363.045400 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [rem_licenze_key][][]
+
+====================================
+REMOVE LICENSE KEY
+====================================
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/home/accountsseller/pvamarkets.com/wp-config.php
+New .htaccess file created:/home/accountsseller/pvamarkets.com/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE DB_NAME ""accountsseller_pvamarkets""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+UPDATE OPTION home ON TABLE wpkn_options
+UPDATE OPTION siteurl ON TABLE wpkn_options
+UPDATE OPTION duplicator_pro_exe_safe_mode ON TABLE wpkn_options
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+ - REMOVED 0 storage items
+ - REMOVED 0 schedule items
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+--------------------------------------
+PATHS MAPPING : "/home/accountsseller/pvamarkets.com"
+--------------------------------------
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 10:42:22 - RUNTIME: 0.9560 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+STEP ACTION: "on-validate"
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[NOTICE] Warnings or notices on WordPress front-end tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /home/accountsseller/pvamarkets.com/index.php
+E_NOTICE Undefined index: pagename
+	FILE: /home/accountsseller/pvamarkets.com/wp-content/plugins/sinek-gateway-woocommerce/app/Router/RouterCore.php[16]
+	--- TRACE ---
+	CLASS___: App\Router\RouterCore->viserPagesFILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/accountsseller/pvamarkets.com/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/accountsseller/pvamarkets.com/wp-includes/template-loader.php[13]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/accountsseller/pvamarkets.com/index.php[17]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-content/wp_test_script_a4dfca9-20083916.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_NOTICE Undefined index: page_slug
+	FILE: /home/accountsseller/pvamarkets.com/wp-content/plugins/sinek-gateway-woocommerce/app/Router/RouterCore.php[17]
+	--- TRACE ---
+	CLASS___: App\Router\RouterCore->viserPagesFILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/accountsseller/pvamarkets.com/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/accountsseller/pvamarkets.com/wp-includes/template-loader.php[13]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/accountsseller/pvamarkets.com/index.php[17]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-content/wp_test_script_a4dfca9-20083916.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_NOTICE Undefined index: pagename
+	FILE: /home/accountsseller/pvamarkets.com/wp-content/plugins/sinek-gateway-woocommerce/app/Router/RouterCore.php[16]
+	--- TRACE ---
+	CLASS___: App\Router\RouterCore->viserPagesFILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/accountsseller/pvamarkets.com/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/accountsseller/pvamarkets.com/wp-includes/template-loader.php[13]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/accountsseller/pvamarkets.com/index.php[17]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-content/wp_test_script_a4dfca9-20083916.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_NOTICE Undefined index: page_slug
+	FILE: /home/accountsseller/pvamarkets.com/wp-content/plugins/sinek-gateway-woocommerce/app/Router/RouterCore.php[17]
+	--- TRACE ---
+	CLASS___: App\Router\RouterCore->viserPagesFILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/accountsseller/pvamarkets.com/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/accountsseller/pvamarkets.com/wp-includes/template-loader.php[13]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/accountsseller/pvamarkets.com/index.php[17]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-content/wp_test_script_a4dfca9-20083916.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_NOTICE Undefined index: public
+	FILE: /home/accountsseller/pvamarkets.com/wp-content/plugins/sinek-gateway-woocommerce/app/Includes/ViserAssets.php[24]
+	--- TRACE ---
+	CLASS___: App\Includes\ViserAssets->enqueueStylesFILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/accountsseller/pvamarkets.com/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/accountsseller/pvamarkets.com/wp-includes/script-loader.php[2262]
+	FUNCTION: wp_enqueue_scripts            FILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/accountsseller/pvamarkets.com/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/accountsseller/pvamarkets.com/wp-includes/general-template.php[3052]
+	FUNCTION: wp_head                       FILE: /home/accountsseller/pvamarkets.com/wp-content/themes/bcmarket-6/header.php[9]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-includes/template.php[790]
+	FUNCTION: load_template                 FILE: /home/accountsseller/pvamarkets.com/wp-includes/template.php[725]
+	FUNCTION: locate_template               FILE: /home/accountsseller/pvamarkets.com/wp-includes/general-template.php[48]
+	FUNCTION: get_header                    FILE: /home/accountsseller/pvamarkets.com/wp-content/themes/bcmarket-6/homepage.php[5]
+	FUNCTION: include                       FILE: /home/accountsseller/pvamarkets.com/wp-includes/template-loader.php[106]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/accountsseller/pvamarkets.com/index.php[17]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-content/wp_test_script_a4dfca9-20083916.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_NOTICE Undefined index: public
+	FILE: /home/accountsseller/pvamarkets.com/wp-content/plugins/sinek-gateway-woocommerce/app/Includes/ViserAssets.php[30]
+	--- TRACE ---
+	CLASS___: App\Includes\ViserAssets->enqueueScriptsFILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/accountsseller/pvamarkets.com/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/accountsseller/pvamarkets.com/wp-includes/script-loader.php[2262]
+	FUNCTION: wp_enqueue_scripts            FILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/accountsseller/pvamarkets.com/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/accountsseller/pvamarkets.com/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/accountsseller/pvamarkets.com/wp-includes/general-template.php[3052]
+	FUNCTION: wp_head                       FILE: /home/accountsseller/pvamarkets.com/wp-content/themes/bcmarket-6/header.php[9]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-includes/template.php[790]
+	FUNCTION: load_template                 FILE: /home/accountsseller/pvamarkets.com/wp-includes/template.php[725]
+	FUNCTION: locate_template               FILE: /home/accountsseller/pvamarkets.com/wp-includes/general-template.php[48]
+	FUNCTION: get_header                    FILE: /home/accountsseller/pvamarkets.com/wp-content/themes/bcmarket-6/homepage.php[5]
+	FUNCTION: include                       FILE: /home/accountsseller/pvamarkets.com/wp-includes/template-loader.php[106]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/accountsseller/pvamarkets.com/index.php[17]
+	FUNCTION: require_once                  FILE: /home/accountsseller/pvamarkets.com/wp-content/wp_test_script_a4dfca9-20083916.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+
+
+====================================
+LOG-TIME[/home/accountsseller/pvamarkets.com/dup-installer/ctrls/ctrl.base.php:166][DELTA:   0.12034]  MESSAGE:END RENDER PAGE
